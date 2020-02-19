@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "Classic Mega Man in Minecraft! By CK20XX"
+   },
+   "language":{
+      "en_mm":{
+         "name":"English",
+         "region":"Mega Man",
+         "bidirectional":false
+      }
+   }
+}

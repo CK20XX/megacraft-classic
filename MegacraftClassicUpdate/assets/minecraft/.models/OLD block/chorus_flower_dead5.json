@@ -1,0 +1,8 @@
+{
+    "parent": "block/chorus_flower",
+    "textures": {
+        "texture": "blocks/chorus_flower_dead5",
+        "bottom": "blocks/chorus_flower_dead5",
+        "particle": "blocks/chorus_flower_dead5"
+    }
+}
