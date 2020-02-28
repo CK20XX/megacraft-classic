@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/andesite_polished" },
+            { "model": "block/andesite_polished1" },
+            { "model": "block/andesite_polished2" },
+            { "model": "block/andesite_polished3" },
+            { "model": "block/andesite_polished4" },
+            { "model": "block/andesite_polished5" },
+            { "model": "block/andesite_polished6" },
+            { "model": "block/andesite_polished7" }
+        ]
+    }
+}

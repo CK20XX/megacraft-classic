@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stonebrick_cracked" },
+            { "model": "block/stonebrick_cracked1" },
+            { "model": "block/stonebrick_cracked2" },
+            { "model": "block/stonebrick_cracked3" },
+            { "model": "block/stonebrick_cracked4" },
+            { "model": "block/stonebrick_cracked5" },
+            { "model": "block/stonebrick_cracked6" },
+            { "model": "block/stonebrick_cracked7" },
+            { "model": "block/stonebrick_cracked8" },
+            { "model": "block/stonebrick_cracked9" },
+            { "model": "block/stonebrick_cracked10" },
+            { "model": "block/stonebrick_cracked11" },
+            { "model": "block/stonebrick_cracked12" },
+            { "model": "block/stonebrick_cracked13" }
+        ]
+    }
+}
