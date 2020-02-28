@@ -1,20 +1,20 @@
 {
     "variants": {
         "": [
-            { "model": "block/stonebrick_cracked" },
-            { "model": "block/stonebrick_cracked1" },
-            { "model": "block/stonebrick_cracked2" },
-            { "model": "block/stonebrick_cracked3" },
-            { "model": "block/stonebrick_cracked4" },
-            { "model": "block/stonebrick_cracked5" },
-            { "model": "block/stonebrick_cracked6" },
-            { "model": "block/stonebrick_cracked7" },
-            { "model": "block/stonebrick_cracked8" },
-            { "model": "block/stonebrick_cracked9" },
-            { "model": "block/stonebrick_cracked10" },
-            { "model": "block/stonebrick_cracked11" },
-            { "model": "block/stonebrick_cracked12" },
-            { "model": "block/stonebrick_cracked13" }
+            { "model": "block/cracked_stone_bricks" },
+            { "model": "block/cracked_stone_bricks1" },
+            { "model": "block/cracked_stone_bricks2" },
+            { "model": "block/cracked_stone_bricks3" },
+            { "model": "block/cracked_stone_bricks4" },
+            { "model": "block/cracked_stone_bricks5" },
+            { "model": "block/cracked_stone_bricks6" },
+            { "model": "block/cracked_stone_bricks7" },
+            { "model": "block/cracked_stone_bricks8" },
+            { "model": "block/cracked_stone_bricks9" },
+            { "model": "block/cracked_stone_bricks10" },
+            { "model": "block/cracked_stone_bricks11" },
+            { "model": "block/cracked_stone_bricks12" },
+            { "model": "block/cracked_stone_bricks13" }
         ]
     }
 }

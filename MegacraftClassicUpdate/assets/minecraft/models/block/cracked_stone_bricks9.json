@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/andesite_polished5"
+        "all": "block/cracked_stone_bricks9"
     }
 }

@@ -1,14 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/andesite_polished" },
-            { "model": "block/andesite_polished1" },
-            { "model": "block/andesite_polished2" },
-            { "model": "block/andesite_polished3" },
-            { "model": "block/andesite_polished4" },
-            { "model": "block/andesite_polished5" },
-            { "model": "block/andesite_polished6" },
-            { "model": "block/andesite_polished7" }
+            { "model": "block/polished_andesite" },
+            { "model": "block/polished_andesite1" },
+            { "model": "block/polished_andesite2" },
+            { "model": "block/polished_andesite3" },
+            { "model": "block/polished_andesite4" },
+            { "model": "block/polished_andesite5" },
+            { "model": "block/polished_andesite6" },
+            { "model": "block/polished_andesite7" }
         ]
     }
 }
