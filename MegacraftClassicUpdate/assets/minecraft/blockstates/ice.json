@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/ice" },
+            { "model": "block/ice1" },
+            { "model": "block/ice2" },
+            { "model": "block/ice3" },
+            { "model": "block/ice4" }
+        ]
+    }
+}
