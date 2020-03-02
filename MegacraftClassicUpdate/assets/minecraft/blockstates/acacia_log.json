@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "axis=y":  [
+                  { "model": "block/acacia_log", "weight":2 },
+                  { "model": "block/acacia_log1" },
+                  { "model": "block/acacia_log2" },
+                  { "model": "block/acacia_log3" },
+                  { "model": "block/acacia_log4" }
+        ],
+        "axis=z":   [
+                  { "model": "block/acacia_log", "x": 90, "weight":2 },
+                  { "model": "block/acacia_log1", "x": 90 },
+                  { "model": "block/acacia_log2", "x": 90 },
+                  { "model": "block/acacia_log3", "x": 90 },
+                  { "model": "block/acacia_log4", "x": 90 }
+        ],
+        "axis=x":   [
+                  { "model": "block/acacia_log", "x": 90, "y": 90, "weight":2 },
+                  { "model": "block/acacia_log1", "x": 90, "y": 90 },
+                  { "model": "block/acacia_log2", "x": 90, "y": 90 },
+                  { "model": "block/acacia_log3", "x": 90, "y": 90 },
+                  { "model": "block/acacia_log4", "x": 90, "y": 90 }
+        ]
+    }
+}
