@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/redstone_block" },
+            { "model": "block/redstone_block1" },
+            { "model": "block/redstone_block2" },
+            { "model": "block/redstone_block3" },
+            { "model": "block/redstone_block4" },
+            { "model": "block/redstone_block5" },
+            { "model": "block/redstone_block6" },
+            { "model": "block/redstone_block7" },
+            { "model": "block/redstone_block8" },
+            { "model": "block/redstone_block9" }
+        ]
+    }
+}
