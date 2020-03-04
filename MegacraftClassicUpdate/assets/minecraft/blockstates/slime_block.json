@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/slime_block" },
+            { "model": "block/slime_block1" },
+            { "model": "block/slime_block2" },
+            { "model": "block/slime_block3" },
+            { "model": "block/slime_block4" }
+            ]
+    }
+}

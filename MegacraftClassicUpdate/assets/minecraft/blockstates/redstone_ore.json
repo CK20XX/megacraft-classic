@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "lit=false": [
+                { "model": "block/redstone_ore" },
+                { "model": "block/redstone_ore1" },
+                { "model": "block/redstone_ore2" },
+                { "model": "block/redstone_ore3" },
+                { "model": "block/redstone_ore4" },
+                { "model": "block/redstone_ore5" },
+                { "model": "block/redstone_ore6" },
+                { "model": "block/redstone_ore7" }
+              ],
+        "lit=true": [
+          { "model": "block/redstone_ore_on" },
+          { "model": "block/redstone_ore_on1" },
+          { "model": "block/redstone_ore_on2" },
+          { "model": "block/redstone_ore_on3" }
+        ]
+    }
+}

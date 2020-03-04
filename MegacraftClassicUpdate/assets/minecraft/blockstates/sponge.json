@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/sponge" },
+            { "model": "block/sponge1" },
+            { "model": "block/sponge2" },
+            { "model": "block/sponge3" }
+        ]
+    }
+}

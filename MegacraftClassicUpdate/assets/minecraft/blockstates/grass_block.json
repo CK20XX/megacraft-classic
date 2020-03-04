@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/grass_block" },
+            { "model": "block/grass_block1" },
+            { "model": "block/grass_block2" },
+            { "model": "block/grass_block3" },
+            { "model": "block/grass_block4" },
+            { "model": "block/grass_block5" },
+            { "model": "block/grass_block6" },
+            { "model": "block/grass_block7" },
+            { "model": "block/grass_block8" },
+            { "model": "block/grass_block9" }
+
+        ],
+        "snowy=true":  [
+            { "model": "block/grass_block_snow" },
+            { "model": "block/grass_block_snow1" },
+            { "model": "block/grass_block_snow2" },
+            { "model": "block/grass_block_snow3" },
+            { "model": "block/grass_block_snow4" },
+            { "model": "block/grass_block_snow5" },
+            { "model": "block/grass_block_snow6" },
+            { "model": "block/grass_block_snow7" },
+            { "model": "block/grass_block_snow8" },
+            { "model": "block/grass_block_snow9" },
+            { "model": "block/grass_block_snow10" },
+            { "model": "block/grass_block_snow11" },
+            { "model": "block/grass_block_snow12" },
+            { "model": "block/grass_block_snow13" },
+            { "model": "block/grass_block_snow14" }
+        ]
+    }
+}

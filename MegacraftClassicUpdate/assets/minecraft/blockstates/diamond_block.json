@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/diamond_block" },
+            { "model": "block/diamond_block1" },
+            { "model": "block/diamond_block2" },
+            { "model": "block/diamond_block3" },
+            { "model": "block/diamond_block4" },
+            { "model": "block/diamond_block5" },
+            { "model": "block/diamond_block6" },
+            { "model": "block/diamond_block7" }
+        ]
+    }
+}

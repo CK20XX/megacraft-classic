@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/snow_block" },
+            { "model": "block/snow_block1" },
+            { "model": "block/snow_block2" },
+            { "model": "block/snow_block3" },
+            { "model": "block/snow_block4" },
+            { "model": "block/snow_block5" },
+            { "model": "block/snow_block6" },
+            { "model": "block/snow_block7" }
+        ]
+    }
+}
