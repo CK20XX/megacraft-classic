@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "age=0": [
+            { "model": "block/chorus_flower" },
+            { "model": "block/chorus_flower1" },
+            { "model": "block/chorus_flower2" },
+            { "model": "block/chorus_flower3" },
+            { "model": "block/chorus_flower4" },
+            { "model": "block/chorus_flower5" }
+          ],
+        "age=1": [
+            { "model": "block/chorus_age1flower" },
+            { "model": "block/chorus_age1flower1" },
+            { "model": "block/chorus_age1flower2" },
+            { "model": "block/chorus_age1flower3" },
+            { "model": "block/chorus_age1flower4" },
+            { "model": "block/chorus_age1flower5" }
+          ],
+        "age=2": [
+            { "model": "block/chorus_age2flower" },
+            { "model": "block/chorus_age2flower1" },
+            { "model": "block/chorus_age2flower2" },
+            { "model": "block/chorus_age2flower3" },
+            { "model": "block/chorus_age2flower4" },
+            { "model": "block/chorus_age2flower5" }
+          ],
+        "age=3": [
+            { "model": "block/chorus_age3flower" },
+            { "model": "block/chorus_age3flower1" },
+            { "model": "block/chorus_age3flower2" },
+            { "model": "block/chorus_age3flower3" },
+            { "model": "block/chorus_age3flower4" },
+            { "model": "block/chorus_age3flower5" }
+          ],
+        "age=4": [
+            { "model": "block/chorus_age4flower" },
+            { "model": "block/chorus_age4flower1" },
+            { "model": "block/chorus_age4flower2" },
+            { "model": "block/chorus_age4flower3" },
+            { "model": "block/chorus_age4flower4" },
+            { "model": "block/chorus_age4flower5" }
+          ],
+        "age=5": [
+            { "model": "block/chorus_flower_dead" },
+            { "model": "block/chorus_flower_dead1" },
+            { "model": "block/chorus_flower_dead2" },
+            { "model": "block/chorus_flower_dead3" },
+            { "model": "block/chorus_flower_dead4" },
+            { "model": "block/chorus_flower_dead5" }
+          ]
+    }
+}
