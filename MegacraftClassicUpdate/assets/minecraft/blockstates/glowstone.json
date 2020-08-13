@@ -1,16 +1,6 @@
 {
     "variants": {
         "": [
-            { "model": "block/glowstone" },
-            { "model": "block/glowstone1" },
-            { "model": "block/glowstone2" },
-            { "model": "block/glowstone3" },
-            { "model": "block/glowstone4" },
-            { "model": "block/glowstone5" },
-            { "model": "block/glowstone6" },
-            { "model": "block/glowstone7" },
-            { "model": "block/glowstone8" },
-            { "model": "block/glowstone9" },
             { "model": "block/glowstone10" },
             { "model": "block/glowstone11" },
             { "model": "block/glowstone12" }

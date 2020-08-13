@@ -1,0 +1,88 @@
+{
+    "multipart": [
+        {   "when": { "OR": [
+                {"north": "none", "east": "none", "south": "none", "west": "none"},
+                {"north": "side|up", "east": "side|up" },
+                {"east": "side|up", "south": "side|up" },
+                {"south": "side|up", "west": "side|up"},
+                {"west": "side|up", "north": "side|up"}
+            ]},
+            "apply": [
+                { "model": "block/redstone_dust_dot" },
+                { "model": "block/redstone_dust_dot1" },
+                { "model": "block/redstone_dust_dot2" },
+                { "model": "block/redstone_dust_dot3" },
+                { "model": "block/redstone_dust_dot4" },
+                { "model": "block/redstone_dust_dot5" },
+                { "model": "block/redstone_dust_dot6" },
+                { "model": "block/redstone_dust_dot7" },
+                { "model": "block/redstone_dust_dot8" },
+                { "model": "block/redstone_dust_dot9" }
+            ]
+        },
+        {   "when": { "OR": [
+                { "north": "side|up" },
+                { "north": "none", "east": "none", "south": "side|up", "west": "none" }
+            ]},
+            "apply": [
+                { "model": "block/redstone_dust_side0" },
+                { "model": "block/redstone_dust_side1" },
+                { "model": "block/redstone_dust_side2" },
+                { "model": "block/redstone_dust_side3" },
+                { "model": "block/redstone_dust_side4" },
+                { "model": "block/redstone_dust_side5" }
+              ]
+        },
+        {   "when": { "OR": [
+                { "south": "side|up" },
+                { "north": "side|up", "east": "none", "south": "none", "west": "none" }
+            ]},
+            "apply": [
+                { "model": "block/redstone_dust_side_alt0" },
+                { "model": "block/redstone_dust_side_alt1" },
+                { "model": "block/redstone_dust_side_alt2" },
+                { "model": "block/redstone_dust_side_alt3" },
+                { "model": "block/redstone_dust_side_alt4" },
+                { "model": "block/redstone_dust_side_alt5" }
+              ]
+        },
+        {   "when": { "OR": [
+                { "east": "side|up" },
+                { "north": "none", "east": "none", "south": "none", "west": "side|up" }
+            ]},
+            "apply": [
+                { "model": "block/redstone_dust_side_alt0", "y": 270 },
+                { "model": "block/redstone_dust_side_alt1", "y": 270 },
+                { "model": "block/redstone_dust_side_alt2", "y": 270 },
+                { "model": "block/redstone_dust_side_alt3", "y": 270 },
+                { "model": "block/redstone_dust_side_alt4", "y": 270 },
+                { "model": "block/redstone_dust_side_alt5", "y": 270 }
+              ]
+        },
+        {   "when": { "OR": [
+                { "west": "side|up" },
+                { "north": "none", "east": "side|up", "south": "none", "west": "none" }
+            ]},
+            "apply": [
+                { "model": "block/redstone_dust_side0", "y": 270 },
+                { "model": "block/redstone_dust_side1", "y": 270 },
+                { "model": "block/redstone_dust_side2", "y": 270 },
+                { "model": "block/redstone_dust_side3", "y": 270 },
+                { "model": "block/redstone_dust_side4", "y": 270 },
+                { "model": "block/redstone_dust_side5", "y": 270 }
+              ]
+        },
+        {   "when": { "north": "up" },
+            "apply": { "model": "block/redstone_dust_up" }
+        },
+        {   "when": { "east": "up" },
+            "apply": { "model": "block/redstone_dust_up", "y": 90 }
+        },
+        {   "when": { "south": "up" },
+            "apply": { "model": "block/redstone_dust_up", "y": 180 }
+        },
+        {   "when": { "west": "up" },
+            "apply": { "model": "block/redstone_dust_up", "y": 270 }
+        }
+    ]
+}

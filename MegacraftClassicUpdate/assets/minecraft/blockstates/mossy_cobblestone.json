@@ -12,7 +12,8 @@
             { "model": "block/mossy_cobblestone8" },
             { "model": "block/mossy_cobblestone9" },
             { "model": "block/mossy_cobblestone10" },
-            { "model": "block/mossy_cobblestone11" }
+            { "model": "block/mossy_cobblestone11" },
+            { "model": "block/mossy_cobblestone12" }
         ]
     }
 }

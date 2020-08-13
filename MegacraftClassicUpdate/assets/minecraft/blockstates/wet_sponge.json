@@ -1,9 +1,10 @@
 {
     "variants": {
         "": [
-            { "model": "block/sponge_wet1" },
-            { "model": "block/sponge_wet2" },
-            { "model": "block/sponge_wet3" }
-        ]
+              { "model": "block/wet_sponge" },
+              { "model": "block/wet_sponge1" },
+              { "model": "block/wet_sponge2" },
+              { "model": "block/wet_sponge3" }
+            ]
     }
 }

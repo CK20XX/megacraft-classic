@@ -1,8 +1,5 @@
 {
     "variants": {
-        "": [
-            { "model": "block/cut_sandstone" },
-            { "model": "block/cut_sandstone1", "weight": 10 }
-        ]
+        "": { "model": "block/cut_sandstone" }
     }
 }
