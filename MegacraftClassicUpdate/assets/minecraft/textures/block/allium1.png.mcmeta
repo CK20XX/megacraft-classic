@@ -2,8 +2,10 @@
   "animation": {
     "frametime": 2,
     "frames": [
+	  2,
 	  1,
-	  0
+	  0,
+	  1
     ]
   }
 }
