@@ -7,7 +7,8 @@
             { "model": "block/obsidian3" },
             { "model": "block/obsidian4" },
             { "model": "block/obsidian5" },
-            { "model": "block/obsidian6" }
+            { "model": "block/obsidian6" },
+			{ "model": "block/obsidian7" }
         ]
     }
 }

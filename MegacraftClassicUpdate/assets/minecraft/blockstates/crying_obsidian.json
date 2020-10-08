@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+		{"model": "minecraft:block/crying_obsidian"},
+		{"model": "minecraft:block/crying_obsidian1"},
+		{"model": "minecraft:block/crying_obsidian2"},
+		{"model": "minecraft:block/crying_obsidian3"},
+		{"model": "minecraft:block/crying_obsidian4"},
+		{"model": "minecraft:block/crying_obsidian5"},
+		{"model": "minecraft:block/crying_obsidian6"},
+		{"model": "minecraft:block/crying_obsidian7"}
+	]
+  }
+}
