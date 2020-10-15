@@ -1,16 +1,26 @@
 {
   "variants": {
-    "axis=x": {
-      "model": "minecraft:block/basalt",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/basalt"
-    },
-    "axis=z": {
-      "model": "minecraft:block/basalt",
-      "x": 90
-    }
+    "": [
+			{"model": "minecraft:block/basalt"},
+			{"model": "minecraft:block/basalt", "y": 90},
+			{"model": "minecraft:block/basalt", "y": 180},
+			{"model": "minecraft:block/basalt", "y": 270},
+			{"model": "minecraft:block/basalt1"},
+			{"model": "minecraft:block/basalt1", "y": 90},
+			{"model": "minecraft:block/basalt1", "y": 180},
+			{"model": "minecraft:block/basalt1", "y": 270},
+			{"model": "minecraft:block/basalt2"},
+			{"model": "minecraft:block/basalt2", "y": 90},
+			{"model": "minecraft:block/basalt2", "y": 180},
+			{"model": "minecraft:block/basalt2", "y": 270},
+			{"model": "minecraft:block/basalt3"},
+			{"model": "minecraft:block/basalt3", "y": 90},
+			{"model": "minecraft:block/basalt3", "y": 180},
+			{"model": "minecraft:block/basalt3", "y": 270},
+			{"model": "minecraft:block/basalt4"},
+			{"model": "minecraft:block/basalt4", "y": 90},
+			{"model": "minecraft:block/basalt4", "y": 180},
+			{"model": "minecraft:block/basalt4", "y": 270}
+		]
   }
 }
