@@ -3,7 +3,7 @@
     "": [
       {"model": "minecraft:block/polished_blackstone"},
       {"model": "minecraft:block/polished_blackstone1"},
-      {"model": "minecraft:block/polished_blackstone2"}
+	  {"model": "minecraft:block/polished_blackstone3"}
       ]
   }
 }
