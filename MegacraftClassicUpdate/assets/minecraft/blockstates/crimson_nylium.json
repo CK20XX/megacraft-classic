@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/crimson_nylium"
-    }
+    "": [
+		{"model": "minecraft:block/crimson_nylium"},
+		{"model": "minecraft:block/crimson_nylium1"},
+		{"model": "minecraft:block/crimson_nylium2"},
+		{"model": "minecraft:block/crimson_nylium3"},
+		{"model": "minecraft:block/crimson_nylium4"},
+		{"model": "minecraft:block/crimson_nylium5"},
+		{"model": "minecraft:block/crimson_nylium6"},
+		{"model": "minecraft:block/crimson_nylium7"},
+		{"model": "minecraft:block/crimson_nylium8"},
+		{"model": "minecraft:block/crimson_nylium9"},
+		{"model": "minecraft:block/crimson_nylium10"},
+		{"model": "minecraft:block/crimson_nylium11"}
+	]
   }
 }
