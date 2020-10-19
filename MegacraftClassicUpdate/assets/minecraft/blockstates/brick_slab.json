@@ -1,7 +1,55 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/brick_slab" },
-        "type=top": { "model": "block/brick_slab_top" },
-        "type=double": { "model": "block/bricks" }
+        "type=bottom": [
+            { "model": "block/brick_slab" },
+            { "model": "block/brick_slab1" },
+            { "model": "block/brick_slab2" },
+            { "model": "block/brick_slab3" },
+            { "model": "block/brick_slab4" },
+            { "model": "block/brick_slab5" },
+            { "model": "block/brick_slab6" },
+            { "model": "block/brick_slab7" },
+            { "model": "block/brick_slab8" },
+            { "model": "block/brick_slab9" },
+            { "model": "block/brick_slab10" },
+            { "model": "block/brick_slab11" },
+            { "model": "block/brick_slab12" },
+            { "model": "block/brick_slab13" },
+            { "model": "block/brick_slab14" }
+        ],
+        "type=top": [
+          { "model": "block/brick_slab_top" },
+          { "model": "block/brick_slab_top1" },
+          { "model": "block/brick_slab_top2" },
+          { "model": "block/brick_slab_top3" },
+          { "model": "block/brick_slab_top4" },
+          { "model": "block/brick_slab_top5" },
+          { "model": "block/brick_slab_top6" },
+          { "model": "block/brick_slab_top7" },
+          { "model": "block/brick_slab_top8" },
+          { "model": "block/brick_slab_top9" },
+          { "model": "block/brick_slab_top10" },
+          { "model": "block/brick_slab_top11" },
+          { "model": "block/brick_slab_top12" },
+          { "model": "block/brick_slab_top13" },
+          { "model": "block/brick_slab_top14" }
+        ],
+        "type=double": [
+          { "model": "block/bricks" },
+          { "model": "block/bricks1" },
+          { "model": "block/bricks2" },
+          { "model": "block/bricks3" },
+          { "model": "block/bricks4" },
+          { "model": "block/bricks5" },
+          { "model": "block/bricks6" },
+          { "model": "block/bricks7" },
+          { "model": "block/bricks8" },
+          { "model": "block/bricks9" },
+          { "model": "block/bricks10" },
+          { "model": "block/bricks11" },
+          { "model": "block/bricks12" },
+          { "model": "block/bricks13" },
+          { "model": "block/bricks14" }
+        ]
     }
 }
