@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "type=bottom": { "model": "block/stone_slab" },
-        "type=top": { "model": "block/stone_slab_top" },
-        "type=double": { "model": "block/stone" }
-    }
+  "variants": {
+    "type=bottom": [
+      { "model": "minecraft:block/stone_slab" },
+      { "model": "minecraft:block/stone_slab1" }
+    ],
+    "type=double": [
+      { "model": "minecraft:block/stone_slab_double" },
+      { "model": "minecraft:block/stone_slab_double1" }
+    ],
+    "type=top": [
+      { "model": "minecraft:block/stone_slab_top" },
+      { "model": "minecraft:block/stone_slab_top1" }
+    ]
+  }
 }

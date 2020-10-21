@@ -1,7 +1,19 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/end_stone_brick_slab" },
-        "type=top": { "model": "block/end_stone_brick_slab_top" },
-        "type=double": { "model": "block/end_stone_bricks" }
+        "type=bottom": [
+            { "model": "block/end_stone_brick_slab" },
+            { "model": "block/end_stone_brick_slab1" },
+            { "model": "block/end_stone_brick_slab2" }
+        ],
+        "type=top": [
+          { "model": "block/end_stone_brick_slab_top" },
+          { "model": "block/end_stone_brick_slab_top1" },
+          { "model": "block/end_stone_brick_slab_top2" }
+        ],
+        "type=double": [
+          { "model": "block/end_stone_bricks" },
+          { "model": "block/end_stone_bricks1" },
+          { "model": "block/end_stone_bricks2" }
+        ]
     }
 }

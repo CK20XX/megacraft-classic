@@ -69,6 +69,7 @@
             { "model": "block/brick_stairs14", "y": 270, "uvlock": true }
         ],
         "facing=east,half=bottom,shape=outer_right": [
+            { "model": "block/brick_stairs_outer" },
             { "model": "block/brick_stairs_outer1" },
             { "model": "block/brick_stairs_outer2" },
             { "model": "block/brick_stairs_outer3" },

@@ -1,13 +1,22 @@
 {
-  "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/polished_blackstone_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/polished_blackstone"
-    },
-    "type=top": {
-      "model": "minecraft:block/polished_blackstone_slab_top"
+    "variants": {
+        "type=bottom": [
+            { "model": "block/polished_blackstone_slab" },
+            { "model": "block/polished_blackstone_slab1" },
+            { "model": "block/polished_blackstone_slab2" },
+            { "model": "block/polished_blackstone_slab3" }
+        ],
+        "type=top": [
+          { "model": "block/polished_blackstone_slab_top" },
+          { "model": "block/polished_blackstone_slab_top1" },
+          { "model": "block/polished_blackstone_slab_top2" },
+          { "model": "block/polished_blackstone_slab_top3" }
+        ],
+        "type=double": [
+          { "model": "block/polished_blackstone" },
+          { "model": "block/polished_blackstone1" },
+          { "model": "block/polished_blackstone2" },
+          { "model": "block/polished_blackstone3" }
+        ]
     }
-  }
 }

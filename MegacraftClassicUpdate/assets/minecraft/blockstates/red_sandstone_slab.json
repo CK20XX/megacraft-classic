@@ -1,7 +1,46 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/red_sandstone_slab" },
-        "type=top": { "model": "block/red_sandstone_slab_top" },
-        "type=double": { "model": "block/red_sandstone" }
+        "type=bottom": [
+            { "model": "block/red_sandstone_slab" },
+            { "model": "block/red_sandstone_slab1" },
+            { "model": "block/red_sandstone_slab2" },
+            { "model": "block/red_sandstone_slab3" },
+            { "model": "block/red_sandstone_slab4" },
+            { "model": "block/red_sandstone_slab5" },
+            { "model": "block/red_sandstone_slab6" },
+            { "model": "block/red_sandstone_slab7" },
+            { "model": "block/red_sandstone_slab8" },
+            { "model": "block/red_sandstone_slab9" },
+            { "model": "block/red_sandstone_slab10" },
+            { "model": "block/red_sandstone_slab11" }
+        ],
+        "type=top": [
+          { "model": "block/red_sandstone_slab_top" },
+          { "model": "block/red_sandstone_slab_top1" },
+          { "model": "block/red_sandstone_slab_top2" },
+          { "model": "block/red_sandstone_slab_top3" },
+          { "model": "block/red_sandstone_slab_top4" },
+          { "model": "block/red_sandstone_slab_top5" },
+          { "model": "block/red_sandstone_slab_top6" },
+          { "model": "block/red_sandstone_slab_top7" },
+          { "model": "block/red_sandstone_slab_top8" },
+          { "model": "block/red_sandstone_slab_top9" },
+          { "model": "block/red_sandstone_slab_top10" },
+          { "model": "block/red_sandstone_slab_top11" }
+        ],
+        "type=double": [
+          { "model": "block/red_sandstone" },
+          { "model": "block/red_sandstone1" },
+          { "model": "block/red_sandstone2" },
+          { "model": "block/red_sandstone3" },
+          { "model": "block/red_sandstone4" },
+          { "model": "block/red_sandstone5" },
+          { "model": "block/red_sandstone6" },
+          { "model": "block/red_sandstone7" },
+          { "model": "block/red_sandstone8" },
+          { "model": "block/red_sandstone9" },
+          { "model": "block/red_sandstone10" },
+          { "model": "block/red_sandstone11" }
+        ]
     }
 }

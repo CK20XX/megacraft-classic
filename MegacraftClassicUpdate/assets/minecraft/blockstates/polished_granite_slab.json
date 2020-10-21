@@ -1,7 +1,19 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/polished_granite_slab" },
-        "type=top": { "model": "block/polished_granite_slab_top" },
-        "type=double": { "model": "block/polished_granite" }
+        "type=bottom": [
+            { "model": "block/polished_granite_slab" },
+            { "model": "block/polished_granite_slab1" },
+            { "model": "block/polished_granite_slab2" }
+        ],
+        "type=top": [
+          { "model": "block/polished_granite_slab_top" },
+          { "model": "block/polished_granite_slab_top1" },
+          { "model": "block/polished_granite_slab_top2" }
+        ],
+        "type=double": [
+          { "model": "block/polished_granite" },
+          { "model": "block/polished_granite1" },
+          { "model": "block/polished_granite2" }
+        ]
     }
 }

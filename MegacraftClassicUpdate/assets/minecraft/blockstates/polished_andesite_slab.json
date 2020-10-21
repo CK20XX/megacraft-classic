@@ -1,7 +1,34 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/polished_andesite_slab" },
-        "type=top": { "model": "block/polished_andesite_slab_top" },
-        "type=double": { "model": "block/polished_andesite" }
+        "type=bottom": [
+            { "model": "block/polished_andesite_slab" },
+            { "model": "block/polished_andesite_slab1" },
+            { "model": "block/polished_andesite_slab2" },
+            { "model": "block/polished_andesite_slab3" },
+            { "model": "block/polished_andesite_slab4" },
+            { "model": "block/polished_andesite_slab5" },
+            { "model": "block/polished_andesite_slab6" },
+            { "model": "block/polished_andesite_slab7" }
+        ],
+        "type=top": [
+          { "model": "block/polished_andesite_slab_top" },
+          { "model": "block/polished_andesite_slab_top1" },
+          { "model": "block/polished_andesite_slab_top2" },
+          { "model": "block/polished_andesite_slab_top3" },
+          { "model": "block/polished_andesite_slab_top4" },
+          { "model": "block/polished_andesite_slab_top5" },
+          { "model": "block/polished_andesite_slab_top6" },
+          { "model": "block/polished_andesite_slab_top7" }
+        ],
+        "type=double": [
+          { "model": "block/polished_andesite" },
+          { "model": "block/polished_andesite1" },
+          { "model": "block/polished_andesite2" },
+          { "model": "block/polished_andesite3" },
+          { "model": "block/polished_andesite4" },
+          { "model": "block/polished_andesite5" },
+          { "model": "block/polished_andesite6" },
+          { "model": "block/polished_andesite7" }
+        ]
     }
 }
