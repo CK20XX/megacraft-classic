@@ -1,7 +1,26 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/crimson_planks"
-    }
+    "": [
+		{"model": "minecraft:block/crimson_planks"},
+		{"model": "minecraft:block/crimson_planks1"},
+		{"model": "minecraft:block/crimson_planks2"},
+		{"model": "minecraft:block/crimson_planks3"},
+		{"model": "minecraft:block/crimson_planks4"},
+		{"model": "minecraft:block/crimson_planks5"},
+		{"model": "minecraft:block/crimson_planks6"},
+		{"model": "minecraft:block/crimson_planks7"},
+		{"model": "minecraft:block/crimson_planks8"},
+		{"model": "minecraft:block/crimson_planks9"},
+		{"model": "minecraft:block/crimson_planks10"},
+		{"model": "minecraft:block/crimson_planks11"},
+		{"model": "minecraft:block/crimson_planks12"},
+		{"model": "minecraft:block/crimson_planks13"},
+		{"model": "minecraft:block/crimson_planks14"},
+		{"model": "minecraft:block/crimson_planks15"},
+		{"model": "minecraft:block/crimson_planks16"},
+		{"model": "minecraft:block/crimson_planks17"},
+		{"model": "minecraft:block/crimson_planks18"},
+		{"model": "minecraft:block/crimson_planks19"}
+	]
   }
 }
