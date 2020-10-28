@@ -1,7 +1,9 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/potted_crimson_fungus"
-    }
+    "": [
+        { "model": "minecraft:block/potted_crimson_fungus" },
+        { "model": "minecraft:block/potted_crimson_fungus1" },
+        { "model": "minecraft:block/potted_crimson_fungus2" }
+      ]
   }
 }
