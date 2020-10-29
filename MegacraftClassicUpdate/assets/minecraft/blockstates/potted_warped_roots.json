@@ -1,7 +1,12 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/potted_warped_roots"
-    }
+    "": [
+      { "model": "minecraft:block/potted_warped_roots" },
+      { "model": "minecraft:block/potted_warped_roots1" },
+      { "model": "minecraft:block/potted_warped_roots2" },
+      { "model": "minecraft:block/potted_warped_roots3" },
+      { "model": "minecraft:block/potted_warped_roots4" },
+      { "model": "minecraft:block/potted_warped_roots5" }
+    ]
   }
 }
