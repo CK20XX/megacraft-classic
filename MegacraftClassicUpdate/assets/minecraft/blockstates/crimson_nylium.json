@@ -12,7 +12,9 @@
 		{"model": "minecraft:block/crimson_nylium8"},
 		{"model": "minecraft:block/crimson_nylium9"},
 		{"model": "minecraft:block/crimson_nylium10"},
-		{"model": "minecraft:block/crimson_nylium11"}
+		{"model": "minecraft:block/crimson_nylium11"},
+		{"model": "minecraft:block/crimson_nylium12"},
+		{"model": "minecraft:block/crimson_nylium13"}
 	]
   }
 }

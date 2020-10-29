@@ -3,7 +3,10 @@
     "": [
 		{"model": "minecraft:block/crimson_roots"},
 		{"model": "minecraft:block/crimson_roots1"},
-		{"model": "minecraft:block/crimson_roots2"}
+		{"model": "minecraft:block/crimson_roots2"},
+		{"model": "minecraft:block/crimson_roots3"},
+		{"model": "minecraft:block/crimson_roots4"},
+		{"model": "minecraft:block/crimson_roots5"}
 	]
   }
 }

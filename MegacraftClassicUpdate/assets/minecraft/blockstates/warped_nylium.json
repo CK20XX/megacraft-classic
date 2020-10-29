@@ -1,7 +1,20 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/warped_nylium"
-    }
+    "": [
+		{"model": "minecraft:block/warped_nylium"},
+		{"model": "minecraft:block/warped_nylium1"},
+		{"model": "minecraft:block/warped_nylium2"},
+		{"model": "minecraft:block/warped_nylium3"},
+		{"model": "minecraft:block/warped_nylium4"},
+		{"model": "minecraft:block/warped_nylium5"},
+		{"model": "minecraft:block/warped_nylium6"},
+		{"model": "minecraft:block/warped_nylium7"},
+		{"model": "minecraft:block/warped_nylium8"},
+		{"model": "minecraft:block/warped_nylium9"},
+		{"model": "minecraft:block/warped_nylium10"},
+		{"model": "minecraft:block/warped_nylium11"},
+		{"model": "minecraft:block/warped_nylium12"},
+		{"model": "minecraft:block/warped_nylium13"}
+	]
   }
 }
