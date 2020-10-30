@@ -1,7 +1,11 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/soul_soil"
+    "variants": {
+        "": [
+            { "model": "block/soul_soil" },
+            { "model": "block/soul_soil1" },
+            { "model": "block/soul_soil2" },
+            { "model": "block/soul_soil3" },
+            { "model": "block/soul_soil4" }
+        ]
     }
-  }
 }

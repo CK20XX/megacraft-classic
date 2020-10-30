@@ -1,19 +1,52 @@
 {
   "variants": {
-    "facing=east": {
-      "model": "minecraft:block/stonecutter",
-      "y": 90
-    },
-    "facing=north": {
-      "model": "minecraft:block/stonecutter"
-    },
-    "facing=south": {
-      "model": "minecraft:block/stonecutter",
-      "y": 180
-    },
-    "facing=west": {
-      "model": "minecraft:block/stonecutter",
-      "y": 270
-    }
+    "facing=east": [
+        { "model": "minecraft:block/stonecutter", "y": 90 },
+        { "model": "minecraft:block/stonecutter1", "y": 90 },
+        { "model": "minecraft:block/stonecutter2", "y": 90 },
+        { "model": "minecraft:block/stonecutter3", "y": 90 },
+        { "model": "minecraft:block/stonecutter4", "y": 90 },
+        { "model": "minecraft:block/stonecutter5", "y": 90 },
+        { "model": "minecraft:block/stonecutter6", "y": 90 },
+        { "model": "minecraft:block/stonecutter7", "y": 90 },
+        { "model": "minecraft:block/stonecutter8", "y": 90 },
+        { "model": "minecraft:block/stonecutter9", "y": 90 }
+    ],
+    "facing=north": [
+        { "model": "minecraft:block/stonecutter" },
+        { "model": "minecraft:block/stonecutter1" },
+        { "model": "minecraft:block/stonecutter2" },
+        { "model": "minecraft:block/stonecutter3" },
+        { "model": "minecraft:block/stonecutter4" },
+        { "model": "minecraft:block/stonecutter5" },
+        { "model": "minecraft:block/stonecutter6" },
+        { "model": "minecraft:block/stonecutter7" },
+        { "model": "minecraft:block/stonecutter8" },
+        { "model": "minecraft:block/stonecutter9" }
+    ],
+    "facing=south": [
+        { "model": "minecraft:block/stonecutter", "y": 180 },
+        { "model": "minecraft:block/stonecutter1", "y": 180 },
+        { "model": "minecraft:block/stonecutter2", "y": 180 },
+        { "model": "minecraft:block/stonecutter3", "y": 180 },
+        { "model": "minecraft:block/stonecutter4", "y": 180 },
+        { "model": "minecraft:block/stonecutter5", "y": 180 },
+        { "model": "minecraft:block/stonecutter6", "y": 180 },
+        { "model": "minecraft:block/stonecutter7", "y": 180 },
+        { "model": "minecraft:block/stonecutter8", "y": 180 },
+        { "model": "minecraft:block/stonecutter9", "y": 180 }
+    ],
+    "facing=west": [
+        { "model": "minecraft:block/stonecutter", "y": 270 },
+        { "model": "minecraft:block/stonecutter1", "y": 270 },
+        { "model": "minecraft:block/stonecutter2", "y": 270 },
+        { "model": "minecraft:block/stonecutter3", "y": 270 },
+        { "model": "minecraft:block/stonecutter4", "y": 270 },
+        { "model": "minecraft:block/stonecutter5", "y": 270 },
+        { "model": "minecraft:block/stonecutter6", "y": 270 },
+        { "model": "minecraft:block/stonecutter7", "y": 270 },
+        { "model": "minecraft:block/stonecutter8", "y": 270 },
+        { "model": "minecraft:block/stonecutter9", "y": 270 }
+    ]
   }
 }
