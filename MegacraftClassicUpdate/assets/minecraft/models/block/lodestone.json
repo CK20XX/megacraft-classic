@@ -1,7 +1,12 @@
 {
-  "parent": "minecraft:block/cube_column",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "end": "minecraft:block/lodestone_top",
-    "side": "minecraft:block/lodestone_side"
+    "particle": "minecraft:block/lodestone_top",
+    "north": "minecraft:block/lodestone_side",
+	"west": "minecraft:block/lodestone_side1",
+    "south": "minecraft:block/lodestone_side2",
+    "east": "minecraft:block/lodestone_side3",
+    "up": "minecraft:block/lodestone_top",
+    "down": "minecraft:block/lodestone_top"
   }
 }
