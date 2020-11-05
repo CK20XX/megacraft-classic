@@ -32,13 +32,8 @@
           { "model": "block/nether_bricks28", "weight": 5 },
           { "model": "block/nether_bricks29", "weight": 5 },
           { "model": "block/nether_bricks30", "weight": 5 },
-          { "model": "block/nether_bricks31", "weight": 5 },
-          { "model": "block/nether_bricks32", "weight": 1 },
-          { "model": "block/nether_bricks33", "weight": 1 },
-          { "model": "block/nether_bricks34", "weight": 1 },
-          { "model": "block/nether_bricks35", "weight": 1 },
-          { "model": "block/nether_bricks36", "weight": 1 },
-          { "model": "block/nether_bricks37", "weight": 4 }
+          { "model": "block/nether_bricks31", "weight": 4 },
+          { "model": "block/nether_bricks32", "weight": 2 }
         ]
     }
 }
