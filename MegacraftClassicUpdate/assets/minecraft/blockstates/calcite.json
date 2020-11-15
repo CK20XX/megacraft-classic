@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	{"model": "minecraft:block/calcite"},
+	{"model": "minecraft:block/calcite1"}
+	]
+  }
+}
