@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/nether_bricks18",
+        "top": "block/nether_bricks18",
+        "side": "block/nether_bricks18"
+    }
+}

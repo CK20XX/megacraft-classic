@@ -1,7 +1,34 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/red_nether_brick_slab" },
-        "type=top": { "model": "block/red_nether_brick_slab_top" },
-        "type=double": { "model": "block/red_nether_bricks" }
+        "type=bottom": [
+            { "model": "block/red_nether_brick_slab" },
+            { "model": "block/red_nether_brick_slab1" },
+            { "model": "block/red_nether_brick_slab2" },
+            { "model": "block/red_nether_brick_slab3" },
+            { "model": "block/red_nether_brick_slab4" },
+            { "model": "block/red_nether_brick_slab5" },
+            { "model": "block/red_nether_brick_slab6" },
+            { "model": "block/red_nether_brick_slab7" }
+        ],
+        "type=top": [
+          { "model": "block/red_nether_brick_slab_top" },
+          { "model": "block/red_nether_brick_slab_top1" },
+          { "model": "block/red_nether_brick_slab_top2" },
+          { "model": "block/red_nether_brick_slab_top3" },
+          { "model": "block/red_nether_brick_slab_top4" },
+          { "model": "block/red_nether_brick_slab_top5" },
+          { "model": "block/red_nether_brick_slab_top6" },
+          { "model": "block/red_nether_brick_slab_top7" }
+        ],
+        "type=double": [
+          { "model": "block/red_nether_bricks" },
+          { "model": "block/red_nether_bricks1" },
+          { "model": "block/red_nether_bricks2" },
+          { "model": "block/red_nether_bricks3" },
+          { "model": "block/red_nether_bricks4" },
+          { "model": "block/red_nether_bricks5" },
+          { "model": "block/red_nether_bricks6" },
+          { "model": "block/red_nether_bricks7" }
+        ]
     }
 }
