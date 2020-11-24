@@ -1,5 +1,13 @@
 {
     "variants": {
-        "": { "model": "block/blue_ice" }
+        "": [
+		{ "model": "block/blue_ice" },
+		{ "model": "block/blue_ice1" },
+		{ "model": "block/blue_ice2" },
+		{ "model": "block/blue_ice3" },
+		{ "model": "block/blue_ice4" },
+		{ "model": "block/blue_ice5" },
+		{ "model": "block/blue_ice6" }
+		]
     }
 }
