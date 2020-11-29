@@ -1,0 +1,23 @@
+{
+  "animation": {
+    "frames": [
+	  { "index": 1, "time": 3 },
+	  { "index": 2, "time": 3 },
+	  { "index": 3, "time": 5 },
+	  { "index": 2, "time": 4 },
+	  { "index": 1, "time": 3 },
+	  { "index": 0, "time": 2 },
+	  6,3,7,4,6,5,7,3,6,4,7,5,6,3,7,4,6,5,7,3,6,4,7,5,6,3,7,4,6,5,7,3,6,4,7,5,6,3,7,4,6,5,7,3,6,4,7,5,6,
+	  { "index": 3, "time": 2 },
+	  { "index": 2, "time": 3 },
+	  { "index": 1, "time": 4 },
+	  { "index": 0, "time": 4 },
+	  { "index": 10, "time": 3 },
+	  { "index": 9, "time": 3 },
+	  { "index": 8, "time": 3 },
+	  { "index": 9, "time": 3 },
+	  { "index": 10, "time": 3 },
+	  { "index": 0, "time": 100 }
+    ]
+  }
+}
