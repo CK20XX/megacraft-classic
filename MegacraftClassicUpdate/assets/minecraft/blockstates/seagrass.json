@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/seagrass"
-    }
+    "": [
+		{ "model": "minecraft:block/seagrass"},
+		{ "model": "minecraft:block/seagrass1"},
+		{ "model": "minecraft:block/seagrass2"},
+		{ "model": "minecraft:block/seagrass3"},
+		{ "model": "minecraft:block/seagrass4"},
+		{ "model": "minecraft:block/seagrass5"},
+		{ "model": "minecraft:block/seagrass6"},
+		{ "model": "minecraft:block/seagrass7"},
+		{ "model": "minecraft:block/seagrass8"},
+		{ "model": "minecraft:block/seagrass9"},
+		{ "model": "minecraft:block/seagrass10"},
+		{ "model": "minecraft:block/seagrass11"},
+		{ "model": "minecraft:block/seagrass12"},
+		{ "model": "minecraft:block/seagrass13"},
+		{ "model": "minecraft:block/seagrass14"},
+		{ "model": "minecraft:block/seagrass15"}
+	]
   }
 }
