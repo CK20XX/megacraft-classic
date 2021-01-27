@@ -1935,7 +1935,7 @@
   "item.minecraft.shulker_shell": "Shell Half",
   "item.minecraft.iron_nugget": "Iron Chip",
   "item.minecraft.knowledge_book": "Instructional Disk",
-  "item.minecraft.debug_stick": "Debug Stick",
+  "item.minecraft.debug_stick": "Pointan",
   "item.minecraft.debug_stick.empty": "%s has no properties",
   "item.minecraft.debug_stick.update": "\"%s\" to %s",
   "item.minecraft.debug_stick.select": "selected \"%s\" (%s)",
