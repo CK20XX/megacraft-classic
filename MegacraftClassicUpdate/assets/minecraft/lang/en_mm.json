@@ -2,7 +2,7 @@
   "language.name": "English",
   "language.region": "Mega Man",
   "language.code": "en_us",
-  "narrator.button.accessibility": "Accessibility",
+  "narrator.button.accessibility": "User-Friendliness",
   "narrator.button.language": "Language",
   "narrator.button.difficulty_lock": "Difficulty lock",
   "narrator.button.difficulty_lock.unlocked": "Unlocked",
@@ -1506,7 +1506,7 @@
   "block.minecraft.end_stone_brick_wall": "End Stone Brick Wall",
   "block.minecraft.diorite_wall": "Diorite Wall",
   "block.minecraft.barrel": "Barrel",
-  "block.minecraft.smoker": "Smoker",
+  "block.minecraft.smoker": "Microwave",
   "block.minecraft.blast_furnace": "Blast Furnace",
   "block.minecraft.cartography_table": "Cartography Table",
   "block.minecraft.fletching_table": "Fletching Table",
@@ -1962,7 +1962,7 @@
   "item.minecraft.piglin_banner_pattern": "Banner Pattern",
   "item.minecraft.piglin_banner_pattern.desc": "Snout",
   "item.minecraft.sweet_berries": "Sweet Berries",
-  "item.minecraft.honey_bottle": "Honey Bottle",
+  "item.minecraft.honey_bottle": "HON-E-Tank",
   "item.minecraft.honeycomb": "Honeycomb",
   "item.minecraft.lodestone_compass": "Lodestone Compass",
   "item.minecraft.netherite_scrap": "Netherite Scrap",
@@ -1986,7 +1986,7 @@
   "container.furnace": "§fSmelter",
   "container.enchant": "§fProgramming",
 
-  "container.smoker": "§fSmoker",
+  "container.smoker": "§fMicrowave",
   "container.lectern": "§fLectern",
   "container.blast_furnace": "§fBlast Furnace",
 
@@ -2658,7 +2658,7 @@
   "stat.minecraft.interact_with_loom": "Interactions with Loom",
   "stat.minecraft.interact_with_blast_furnace": "Interactions with Blast Furnace",
   "stat.minecraft.interact_with_smithing_table": "Interactions with Smithing Table",
-  "stat.minecraft.interact_with_smoker": "Interactions with Smoker",
+  "stat.minecraft.interact_with_smoker": "Interactions with Microwave",
   "stat.minecraft.interact_with_stonecutter": "Interactions with Stonecutter",
   "stat.minecraft.jump": "Jumps",
   "stat.minecraft.junk_fished": "Junk Fished",
@@ -3534,7 +3534,7 @@
   "subtitles.block.shulker_box.open": "Shipping Capsule opens",
 
   "subtitles.block.smithing_table.use": "Smithing Table used",
-  "subtitles.block.smoker.smoke": "Smoker smokes",
+  "subtitles.block.smoker.smoke": "Microwave microwaves",
 
   "subtitles.block.trapdoor.toggle": "Trapdoor creaks",
   "subtitles.block.tripwire.attach": "Tripwire attaches",
