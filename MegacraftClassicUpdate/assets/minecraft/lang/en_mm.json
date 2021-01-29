@@ -1508,7 +1508,7 @@
   "block.minecraft.barrel": "Barrel",
   "block.minecraft.smoker": "Microwave",
   "block.minecraft.blast_furnace": "Blast Furnace",
-  "block.minecraft.cartography_table": "Cartography Table",
+  "block.minecraft.cartography_table": "Subscreen Programmer",
   "block.minecraft.fletching_table": "Fletching Table",
   "block.minecraft.smithing_table": "Smithing Table",
   "block.minecraft.grindstone": "Bikky Bomb",
@@ -2015,7 +2015,7 @@
 
   "container.loom": "§fLoom",
   "container.grindstone_title": "§fRepair & Downgrade",
-  "container.cartography_table": "§fCartography Table",
+  "container.cartography_table": "§fSubscreen Programmer",
   "container.stonecutter": "§fGaryoby",
   "container.upgrade": "§fUpgrade Gear",
 
@@ -2650,7 +2650,7 @@
   "stat.minecraft.interact_with_beacon": "Interactions with Square Machine Booster",
   "stat.minecraft.interact_with_brewingstand": "Interactions with Tank Mixer",
   "stat.minecraft.interact_with_campfire": "Interactions with Campfire",
-  "stat.minecraft.interact_with_cartography_table": "Interactions with Cartography Table",
+  "stat.minecraft.interact_with_cartography_table": "Interactions with Subscreen Programmer",
   "stat.minecraft.interact_with_crafting_table": "Interactions with Workbench",
   "stat.minecraft.interact_with_furnace": "Interactions with Smelter",
   "stat.minecraft.interact_with_grindstone": "Interactions with Bikky Bomb",
