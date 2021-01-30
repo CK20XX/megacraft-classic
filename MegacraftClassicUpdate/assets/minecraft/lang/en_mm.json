@@ -1826,7 +1826,7 @@
 
   "item.minecraft.piglin_spawn_egg": "Piglin Spawn Egg",
   "item.minecraft.pillager_spawn_egg": "Pillager Spawn Egg",
-  "item.minecraft.phantom_spawn_egg": "Phantom Spawn Egg",
+  "item.minecraft.phantom_spawn_egg": "Mothraya Spawn Egg",
 
   "item.minecraft.polar_bear_spawn_egg": "Shirokumachine GTV Spawn Egg",
 
@@ -1943,7 +1943,7 @@
   "item.minecraft.trident": "Laser Trident",
   "item.minecraft.scute": "Scute",
   "item.minecraft.turtle_helmet": "Kamegoro Shell",
-  "item.minecraft.phantom_membrane": "Phantom Membrane",
+  "item.minecraft.phantom_membrane": "Mothraya Wing",
   "item.minecraft.nautilus_shell": "Ammoner Shell",
   "item.minecraft.heart_of_the_sea": "Aqua Heart",
   "item.minecraft.crossbow": "Crossbow",
@@ -2165,7 +2165,7 @@
 
   "entity.minecraft.parrot": "Parrot",
 
-  "entity.minecraft.phantom": "Phantom",
+  "entity.minecraft.phantom": "Mothraya",
 
   "entity.minecraft.pig": "Hyper Storm H.",
 
@@ -3812,12 +3812,12 @@
   "subtitles.entity.parrot.imitate.zombie": "Parrot groans",
   "subtitles.entity.parrot.imitate.zombie_villager": "Parrot groans",
 
-  "subtitles.entity.phantom.ambient": "Phantom screeches",
-  "subtitles.entity.phantom.bite": "Phantom bites",
-  "subtitles.entity.phantom.death": "Phantom breaks down",
-  "subtitles.entity.phantom.flap": "Phantom flaps",
-  "subtitles.entity.phantom.hurt": "Phantom sustains damage",
-  "subtitles.entity.phantom.swoop": "Phantom swoops",
+  "subtitles.entity.phantom.ambient": "Mothraya screeches",
+  "subtitles.entity.phantom.bite": "Mothraya bites",
+  "subtitles.entity.phantom.death": "Mothraya breaks down",
+  "subtitles.entity.phantom.flap": "Mothraya flaps",
+  "subtitles.entity.phantom.hurt": "Mothraya sustains damage",
+  "subtitles.entity.phantom.swoop": "Mothraya swoops",
 
   "subtitles.entity.pig.ambient": "Hyper Storm H. oinks",
   "subtitles.entity.pig.death": "Hyper Storm H. breaks down",
@@ -4162,7 +4162,7 @@
   "advancements.adventure.adventuring_time.title": "All Stages Clear",
   "advancements.adventure.adventuring_time.description": "Discover every biome",
 
-  "advancements.adventure.arbalistic.title": "Arbalistic",
+  "advancements.adventure.arbalistic.title": "Brutal Efficiency",
   "advancements.adventure.arbalistic.description": "Kill five unique mobs with one crossbow shot",
   "advancements.adventure.bullseye.title": "Bullseye",
   "advancements.adventure.bullseye.description": "Hit the bullseye of a Target block from at least 30 meters away",
@@ -4196,8 +4196,8 @@
 
   "advancements.adventure.throw_trident.title": "A Throwaway Joke",
   "advancements.adventure.throw_trident.description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
-  "advancements.adventure.two_birds_one_arrow.title": "Two Birds, One Arrow",
-  "advancements.adventure.two_birds_one_arrow.description": "Kill two Phantoms with a piercing arrow",
+  "advancements.adventure.two_birds_one_arrow.title": "Sniper Cool",
+  "advancements.adventure.two_birds_one_arrow.description": "Kill two Mothrayas with a piercing arrow",
   "advancements.adventure.very_very_frightening.title": "Very Very Frightening",
   "advancements.adventure.very_very_frightening.description": "Strike a Villager with lightning",
   "advancements.adventure.voluntary_exile.title": "Voluntary Exile",
@@ -4207,8 +4207,8 @@
 
 
 
-  "advancements.husbandry.root.title": "Husbandry",
-  "advancements.husbandry.root.description": "The world is full of friends and food",
+  "advancements.husbandry.root.title": "Dr. Light's Lessons",
+  "advancements.husbandry.root.description": "Time to learn how to achieve world peace",
   "advancements.husbandry.breed_an_animal.title": "Cute Baby Robots",
   "advancements.husbandry.breed_an_animal.description": "Breed two animals together",
 
