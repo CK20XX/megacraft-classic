@@ -869,9 +869,9 @@
   "block.minecraft.wet_sponge": "Wet Sponge",
   "block.minecraft.glass": "Glass",
 
-  "block.minecraft.kelp_plant": "Kelp Plant",
-  "block.minecraft.kelp": "Kelp",
-  "block.minecraft.dried_kelp_block": "Dried Kelp Block",
+  "block.minecraft.kelp_plant": "Seaweed Sensor Seascraper",
+  "block.minecraft.kelp": "Seaweed Sensor",
+  "block.minecraft.dried_kelp_block": "Nori Network",
 
   "block.minecraft.white_stained_glass": "White Stained Glass",
   "block.minecraft.orange_stained_glass": "Orange Stained Glass",
@@ -1566,7 +1566,7 @@
   "item.minecraft.spectral_arrow": "Centaur Arrow",
   "item.minecraft.tipped_arrow": "Nibul Stinger",
 
-  "item.minecraft.dried_kelp": "Dried Kelp",
+  "item.minecraft.dried_kelp": "Nori Nybble",
 
   "item.minecraft.coal": "Coal",
   "item.minecraft.charcoal": "Charcoal",
