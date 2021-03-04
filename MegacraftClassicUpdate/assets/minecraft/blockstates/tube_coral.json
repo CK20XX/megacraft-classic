@@ -2,7 +2,8 @@
   "variants": {
     "": [
       { "model": "minecraft:block/tube_coral" },
-      { "model": "minecraft:block/tube_coral1" }
+      { "model": "minecraft:block/tube_coral1" },
+	  { "model": "minecraft:block/tube_coral2" }
     ]
   }
 }

@@ -1,19 +1,24 @@
 {
   "variants": {
-    "facing=east": {
-      "model": "minecraft:block/fire_coral_wall_fan",
-      "y": 90
-    },
-    "facing=north": {
-      "model": "minecraft:block/fire_coral_wall_fan"
-    },
-    "facing=south": {
-      "model": "minecraft:block/fire_coral_wall_fan",
-      "y": 180
-    },
-    "facing=west": {
-      "model": "minecraft:block/fire_coral_wall_fan",
-      "y": 270
-    }
+    "facing=east": [
+			{"model": "minecraft:block/fire_coral_wall_fan","y": 90},
+			{"model": "minecraft:block/fire_coral_wall_fan1","y": 90},
+			{"model": "minecraft:block/fire_coral_wall_fan2","y": 90}
+		],
+    "facing=north": [
+			{"model": "minecraft:block/fire_coral_wall_fan"},
+			{"model": "minecraft:block/fire_coral_wall_fan1"},
+			{"model": "minecraft:block/fire_coral_wall_fan2"}
+		],
+    "facing=south": [
+			{"model": "minecraft:block/fire_coral_wall_fan","y": 180},
+			{"model": "minecraft:block/fire_coral_wall_fan1","y": 180},
+			{"model": "minecraft:block/fire_coral_wall_fan2","y": 180}
+		],
+    "facing=west": [
+			{"model": "minecraft:block/fire_coral_wall_fan","y": 270},
+			{"model": "minecraft:block/fire_coral_wall_fan1","y": 270},
+			{"model": "minecraft:block/fire_coral_wall_fan2","y": 270}
+		]
   }
 }
