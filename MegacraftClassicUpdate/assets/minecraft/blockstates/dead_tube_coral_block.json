@@ -1,7 +1,11 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dead_tube_coral_block"
-    }
+    "": [
+      { "model": "minecraft:block/dead_tube_coral_block" },
+      { "model": "minecraft:block/dead_tube_coral_block1" },
+      { "model": "minecraft:block/dead_tube_coral_block2" },
+      { "model": "minecraft:block/dead_tube_coral_block3" },
+      { "model": "minecraft:block/dead_tube_coral_block4" }
+    ]
   }
 }

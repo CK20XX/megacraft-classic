@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dead_brain_coral_block"
-    }
+    "": [
+    { "model": "minecraft:block/dead_brain_coral_block" },
+    { "model": "minecraft:block/dead_brain_coral_block1" },
+    { "model": "minecraft:block/dead_brain_coral_block2" },
+    { "model": "minecraft:block/dead_brain_coral_block3" },
+    { "model": "minecraft:block/dead_brain_coral_block4" },
+    { "model": "minecraft:block/dead_brain_coral_block5" },
+    { "model": "minecraft:block/dead_brain_coral_block6" },
+    { "model": "minecraft:block/dead_brain_coral_block7" },
+    { "model": "minecraft:block/dead_brain_coral_block8" },
+    { "model": "minecraft:block/dead_brain_coral_block9" },
+    { "model": "minecraft:block/dead_brain_coral_block10" },
+    { "model": "minecraft:block/dead_brain_coral_block11" },
+    { "model": "minecraft:block/dead_brain_coral_block12" },
+    { "model": "minecraft:block/dead_brain_coral_block13" },
+    { "model": "minecraft:block/dead_brain_coral_block14" },
+    { "model": "minecraft:block/dead_brain_coral_block15" }
+  ]
   }
 }

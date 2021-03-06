@@ -1,19 +1,56 @@
 {
   "variants": {
-    "facing=east": {
-      "model": "minecraft:block/dead_brain_coral_wall_fan",
-      "y": 90
-    },
-    "facing=north": {
-      "model": "minecraft:block/dead_brain_coral_wall_fan"
-    },
-    "facing=south": {
-      "model": "minecraft:block/dead_brain_coral_wall_fan",
-      "y": 180
-    },
-    "facing=west": {
-      "model": "minecraft:block/dead_brain_coral_wall_fan",
-      "y": 270
-    }
+    "facing=east": [
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan1", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan2", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan3", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan4", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan5", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan6", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan7", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan8", "y": 90 },
+      {  "model": "minecraft:block/dead_brain_coral_wall_fan9", "y": 90 }
+    ],
+
+    "facing=north": [
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan1" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan2" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan3" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan4" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan5" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan6" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan7" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan8" },
+        {  "model": "minecraft:block/dead_brain_coral_wall_fan9" }
+    ],
+
+    "facing=south": [
+        { "model": "minecraft:block/dead_brain_coral_wall_fan", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan1", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan2", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan3", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan4", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan5", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan6", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan7", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan8", "y": 180 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan9", "y": 180 }
+    ],
+
+    "facing=west": [
+        { "model": "minecraft:block/dead_brain_coral_wall_fan",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan1",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan2",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan3",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan4",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan5",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan6",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan7",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan8",  "y": 270 },
+        { "model": "minecraft:block/dead_brain_coral_wall_fan9",  "y": 270 }
+    ]
+
   }
 }

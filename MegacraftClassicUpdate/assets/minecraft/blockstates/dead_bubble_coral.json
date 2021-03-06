@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dead_bubble_coral"
-    }
+    "": [
+        { "model": "minecraft:block/dead_bubble_coral" },
+        { "model": "minecraft:block/dead_bubble_coral1" },
+        { "model": "minecraft:block/dead_bubble_coral2" },
+        { "model": "minecraft:block/dead_bubble_coral3" }
+    ]
   }
 }

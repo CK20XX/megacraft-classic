@@ -1,7 +1,23 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dead_tube_coral"
-    }
+    "": [
+        { "model": "minecraft:block/dead_tube_coral" },
+        { "model": "minecraft:block/dead_tube_coral1" },
+        { "model": "minecraft:block/dead_tube_coral2" },
+        { "model": "minecraft:block/dead_tube_coral3" },
+        { "model": "minecraft:block/dead_tube_coral4" },
+        { "model": "minecraft:block/dead_tube_coral5" },
+        { "model": "minecraft:block/dead_tube_coral6" },
+        { "model": "minecraft:block/dead_tube_coral7" },
+        { "model": "minecraft:block/dead_tube_coral8" },
+        { "model": "minecraft:block/dead_tube_coral9" },
+        { "model": "minecraft:block/dead_tube_coral10" },
+        { "model": "minecraft:block/dead_tube_coral11" },
+        { "model": "minecraft:block/dead_tube_coral12" },
+        { "model": "minecraft:block/dead_tube_coral13" },
+        { "model": "minecraft:block/dead_tube_coral14" },
+        { "model": "minecraft:block/dead_tube_coral15" },
+        { "model": "minecraft:block/dead_tube_coral16" }
+    ]
   }
 }

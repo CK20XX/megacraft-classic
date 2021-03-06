@@ -1,7 +1,11 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dead_brain_coral_fan"
-    }
+    "": [
+        {  "model": "minecraft:block/dead_brain_coral_fan" },
+        {  "model": "minecraft:block/dead_brain_coral_fan1" },
+        {  "model": "minecraft:block/dead_brain_coral_fan2" },
+        {  "model": "minecraft:block/dead_brain_coral_fan3" }
+    ]
+
   }
 }
