@@ -6,7 +6,9 @@
             { "model": "block/oak_wood2" },
             { "model": "block/oak_wood3" },
             { "model": "block/oak_wood4" },
-            { "model": "block/oak_wood5" }
+            { "model": "block/oak_wood5" },
+			{ "model": "block/oak_wood6" },
+			{ "model": "block/oak_wood7" }
           ],
         "axis=z": [
             { "model": "block/oak_wood", "x": 90 },
@@ -14,7 +16,9 @@
             { "model": "block/oak_wood2", "x": 90 },
             { "model": "block/oak_wood3", "x": 90 },
             { "model": "block/oak_wood4", "x": 90 },
-            { "model": "block/oak_wood5", "x": 90 }
+            { "model": "block/oak_wood5", "x": 90 },
+			{ "model": "block/oak_wood6", "x": 90 },
+			{ "model": "block/oak_wood7", "x": 90 }
           ],
         "axis=x": [
             { "model": "block/oak_wood", "x": 90, "y": 90 },
@@ -22,7 +26,9 @@
             { "model": "block/oak_wood2", "x": 90, "y": 90 },
             { "model": "block/oak_wood3", "x": 90, "y": 90 },
             { "model": "block/oak_wood4", "x": 90, "y": 90 },
-            { "model": "block/oak_wood5", "x": 90, "y": 90 }
+            { "model": "block/oak_wood5", "x": 90, "y": 90 },
+			{ "model": "block/oak_wood6", "x": 90, "y": 90 },
+			{ "model": "block/oak_wood7", "x": 90, "y": 90 }
           ]
     }
 }
