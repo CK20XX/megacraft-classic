@@ -1,16 +1,136 @@
 {
     "variants": {
-        "facing=up,powered=false": { "model": "block/observer", "x": 270 },
-        "facing=down,powered=false": { "model": "block/observer", "x": 90 },
-        "facing=north,powered=false": { "model": "block/observer" },
-        "facing=south,powered=false": { "model": "block/observer", "y": 180 },
-        "facing=west,powered=false": { "model": "block/observer", "y": 270 },
-        "facing=east,powered=false": { "model": "block/observer", "y": 90 },
-        "facing=up,powered=true": { "model": "block/observer_on", "x": 270 },
-        "facing=down,powered=true": { "model": "block/observer_on", "x": 90 },
-        "facing=north,powered=true": { "model": "block/observer_on" },
-        "facing=south,powered=true": { "model": "block/observer_on", "y": 180 },
-        "facing=west,powered=true": { "model": "block/observer_on", "y": 270 },
-        "facing=east,powered=true": { "model": "block/observer_on", "y": 90 }
+        "facing=up,powered=false": [
+			{ "model": "block/observer", "x": 270 },
+			{ "model": "block/observer1", "x": 270 },
+			{ "model": "block/observer2", "x": 270 },
+			{ "model": "block/observer3", "x": 270 },
+			{ "model": "block/observer4", "x": 270 },
+			{ "model": "block/observer5", "x": 270 },
+			{ "model": "block/observer6", "x": 270 },
+			{ "model": "block/observer7", "x": 270 },
+			{ "model": "block/observer8", "x": 270 }
+		],
+        "facing=down,powered=false": [
+			{ "model": "block/observer", "x": 90 },
+			{ "model": "block/observer1", "x": 90 },
+			{ "model": "block/observer2", "x": 90 },
+			{ "model": "block/observer3", "x": 90 },
+			{ "model": "block/observer4", "x": 90 },
+			{ "model": "block/observer5", "x": 90 },
+			{ "model": "block/observer6", "x": 90 },
+			{ "model": "block/observer7", "x": 90 },
+			{ "model": "block/observer8", "x": 90 }
+		],
+        "facing=north,powered=false": [
+			{ "model": "block/observer" },
+			{ "model": "block/observer1" },
+			{ "model": "block/observer2" },
+			{ "model": "block/observer3" },
+			{ "model": "block/observer4" },
+			{ "model": "block/observer5" },
+			{ "model": "block/observer6" },
+			{ "model": "block/observer7" },
+			{ "model": "block/observer8" }
+		],
+        "facing=south,powered=false": [
+			{ "model": "block/observer", "y": 180 },
+			{ "model": "block/observer1", "y": 180 },
+			{ "model": "block/observer2", "y": 180 },
+			{ "model": "block/observer3", "y": 180 },
+			{ "model": "block/observer4", "y": 180 },
+			{ "model": "block/observer5", "y": 180 },
+			{ "model": "block/observer6", "y": 180 },
+			{ "model": "block/observer7", "y": 180 },
+			{ "model": "block/observer8", "y": 180 }
+		],
+        "facing=west,powered=false": [
+			{ "model": "block/observer", "y": 270 },
+			{ "model": "block/observer1", "y": 270 },
+			{ "model": "block/observer2", "y": 270 },
+			{ "model": "block/observer3", "y": 270 },
+			{ "model": "block/observer4", "y": 270 },
+			{ "model": "block/observer5", "y": 270 },
+			{ "model": "block/observer6", "y": 270 },
+			{ "model": "block/observer7", "y": 270 },
+			{ "model": "block/observer8", "y": 270 }
+		],
+        "facing=east,powered=false": [
+			{ "model": "block/observer", "y": 90 },
+			{ "model": "block/observer1", "y": 90 },
+			{ "model": "block/observer2", "y": 90 },
+			{ "model": "block/observer3", "y": 90 },
+			{ "model": "block/observer4", "y": 90 },
+			{ "model": "block/observer5", "y": 90 },
+			{ "model": "block/observer6", "y": 90 },
+			{ "model": "block/observer7", "y": 90 },
+			{ "model": "block/observer8", "y": 90 }
+		],
+        "facing=up,powered=true": [
+			{ "model": "block/observer_on", "x": 270 },
+			{ "model": "block/observer_on1", "x": 270 },
+			{ "model": "block/observer_on2", "x": 270 },
+			{ "model": "block/observer_on3", "x": 270 },
+			{ "model": "block/observer_on4", "x": 270 },
+			{ "model": "block/observer_on5", "x": 270 },
+			{ "model": "block/observer_on6", "x": 270 },
+			{ "model": "block/observer_on7", "x": 270 },
+			{ "model": "block/observer_on8", "x": 270 }
+		],
+        "facing=down,powered=true": [
+			{ "model": "block/observer_on", "x": 90 },
+			{ "model": "block/observer_on1", "x": 90 },
+			{ "model": "block/observer_on2", "x": 90 },
+			{ "model": "block/observer_on3", "x": 90 },
+			{ "model": "block/observer_on4", "x": 90 },
+			{ "model": "block/observer_on5", "x": 90 },
+			{ "model": "block/observer_on6", "x": 90 },
+			{ "model": "block/observer_on7", "x": 90 },
+			{ "model": "block/observer_on8", "x": 90 }
+		],
+        "facing=north,powered=true": [
+			{ "model": "block/observer_on" },
+			{ "model": "block/observer_on1" },
+			{ "model": "block/observer_on2" },
+			{ "model": "block/observer_on3" },
+			{ "model": "block/observer_on4" },
+			{ "model": "block/observer_on5" },
+			{ "model": "block/observer_on6" },
+			{ "model": "block/observer_on7" },
+			{ "model": "block/observer_on8" }
+		],
+        "facing=south,powered=true": [
+			{ "model": "block/observer_on", "y": 180 },
+			{ "model": "block/observer_on1", "y": 180 },
+			{ "model": "block/observer_on2", "y": 180 },
+			{ "model": "block/observer_on3", "y": 180 },
+			{ "model": "block/observer_on4", "y": 180 },
+			{ "model": "block/observer_on5", "y": 180 },
+			{ "model": "block/observer_on6", "y": 180 },
+			{ "model": "block/observer_on7", "y": 180 },
+			{ "model": "block/observer_on8", "y": 180 }
+		],
+        "facing=west,powered=true": [
+			{ "model": "block/observer_on", "y": 270 },
+			{ "model": "block/observer_on1", "y": 270 },
+			{ "model": "block/observer_on2", "y": 270 },
+			{ "model": "block/observer_on3", "y": 270 },
+			{ "model": "block/observer_on4", "y": 270 },
+			{ "model": "block/observer_on5", "y": 270 },
+			{ "model": "block/observer_on6", "y": 270 },
+			{ "model": "block/observer_on7", "y": 270 },
+			{ "model": "block/observer_on8", "y": 270 }
+		],
+        "facing=east,powered=true": [
+			{ "model": "block/observer_on", "y": 90 },
+			{ "model": "block/observer_on1", "y": 90 },
+			{ "model": "block/observer_on2", "y": 90 },
+			{ "model": "block/observer_on3", "y": 90 },
+			{ "model": "block/observer_on4", "y": 90 },
+			{ "model": "block/observer_on5", "y": 90 },
+			{ "model": "block/observer_on6", "y": 90 },
+			{ "model": "block/observer_on7", "y": 90 },
+			{ "model": "block/observer_on8", "y": 90 }
+		]
     }
 }
