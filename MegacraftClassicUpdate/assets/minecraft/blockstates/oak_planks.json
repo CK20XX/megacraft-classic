@@ -5,8 +5,7 @@
             { "model": "block/oak_planks1" },
             { "model": "block/oak_planks2" },
             { "model": "block/oak_planks3" },
-            { "model": "block/oak_planks4" },
-            { "model": "block/oak_planks5" }
+            { "model": "block/oak_planks4" }
         ]
     }
 }
