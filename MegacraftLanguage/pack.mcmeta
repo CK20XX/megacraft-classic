@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Megacraft Language add-on"
+   },
+   "language":{
+      "en_mm2":{
+         "name":"English",
+         "region":"Mega Man - Additional Info",
+         "bidirectional":false
+      }
+   }
+}
