@@ -1,0 +1,6 @@
+{
+    "parent": "block/redstone_power_display",
+    "textures": {
+          "power": "block/redstone_power07"
+    }
+}
