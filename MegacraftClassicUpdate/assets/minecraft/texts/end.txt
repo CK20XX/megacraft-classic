@@ -6,9 +6,11 @@
 
 §9You could say the two of them worked together like Dr. Light and Dr. Wily, only A.K. didn't turn evil in the end.
 
-§bThough... funny thing about that. In the Japanese version, Light and Wily were never partners. Wily was just some guy who showed up out of nowhere to steal Dr. Light's robots.
+§bThough... funny thing about that. In the Japanese version, Light and Wily were never partners. Wily was just some guy who showed up out of nowhere to steal Dr. Light's robots. That original version is what Mega Man Powered Up went with.
 
 §9And did you know that Mega Man never even threatened to kill Wily in the Japanese version of Mega Man 7? He just said he didn't trust him and demanded to know what he was really up to when begging for mercy.
+
+The American version might have been better because Dr. Light witnessing his robot son try to perform a zeroth law rebellion works great as motivation for him to design X the way he did.
 
 §bAnyway, the end result, Mega Man for the NES, was commendable, but had slippery controls and overused a red and orange color scheme in many areas.
 
@@ -16,7 +18,7 @@
 
 §bDue to the game's uncomfortable quirks leading to lack of success, a sequel wasn't given the blessing by management. But Inafune and his team set out to make one anyway, juggling it between their other assignments.
 
-§9It was this labor of love that cemented Keiji Inafune as the father of the entire Mega Man series.
+§9It was this labor of love that cemented Keiji Inafune as the father of the entire Mega Man series for over two decades.
 
 §bFor the sequel, the controls were tightened, the artwork became more elaborate and colorful, and the difficulty was adjusted, even including two modes in the US version.
 
@@ -34,27 +36,35 @@
 
 §1Instead of trying new things, he began to spin off into new series, with Mega Man X beginning the trend. The X series only helped to hasten the decline in the end though, with X6 and X7 nearly ruining everything for everyone, especially poor Megaman Volnutt who had been working hard to forge his own identity at the time.
 
-§3Megaman Battle Network and Megaman Zero revived things for a while, but began to peter out in the public's mind halfway through their series' run. Thus Star Force went largely ignored and unloved and there were not enough fans left to support Mega Man ZX when it came out.
+§3Megaman Battle Network and Megaman Zero revived things for a while, but began to peter out in the public's mind halfway through their series' run. Thus Star Force went largely ignored and unloved and there were not enough fans left to keep Mega Man ZX running beyond a single sequel.
 
 §9But then the original returned, putting his best foot forward in Mega Man 9 and 10. A resurgence of interest came with him, and many people eagerly awaited what further adventures the legacy character might embark on in Megaman Legends 3 and beyond.
 
-§3But then, Inafune finally reached his limit. He departed from Capcom before he burnt himself out, and without him watching Volnutt's back, Megaman Legends became more famous in death than it ever was in life.
+Not much of a resurgance, mind. Capcom didn't advertise Mega Man 10 at all; it would have been completely overlooked if not for the gaming press jumping all over it. Plus, trying to go back to the annual release strategy with a retro art style may have helped keep the fanbase insular.
 
-§1Not only was it ended, but the rest of the spinoffs followed. It's been one of the loudest silences in the history of video games.
+§3Not long after, Inafune finally reached his limit. He departed from Capcom before he burnt himself out, and without him watching Volnutt's back, Megaman Legends became more famous in death than it ever was in life.
 
-§3It still continues to affect Inafune's attitude to this day. He blames himself at least in part for the cancellation of Legends 3 and would leap back onto the project right away if given another chance.
+§1Not only was the classic series ended, but the rest of the spinoffs followed. It was one of the loudest silences in the history of video games.
 
-§1Perhaps with another chance, Mighty No. 9 wouldn't have become a stillborn franchise due to his mismanagement either. He's been lying low ever since that debacle. It feels like the only good thing he did with that project was encourage Yooka-Laylee and Bloodstained: Ritual of the Night to get created.
+It was significant because a healthy gaming industry used to have Mega Man games coming out regularly like Kirby games do and only needing to sell a minimum of 200,000 copies to justify the next sequel. In his prime, Mega Man was practically amphibious with how he was a good environmental indicator.
 
-§3It's a sad injustice to have a life so violently snuffed out when it's at the start of a renaissance and it seemed to have plenty more fruitful years left in it. It looks like we may not be getting any more Mega Man for a long time.
+He was never a Triple A production, but in retrospect, maybe that was one of the best things about him, especially since Triple A games have come to be defined by glitches, predatory microtransactions, and live service models.
 
-§9But... then again, maybe we will.
+You know, if only the New Super Mario Bros. franchise had eight new themed bosses and eight new weapons each game, maybe it wouldn’t be accused of stagnating far more easily than Mega Man ever has. That's the kind of power and respect the blue guy has.
 
-§bMega Man still lives to this day. The fans won't let him die. Thanks to starring in many popular works from Mega Man Unlimited by MegaPhilX to Bob and George by David Anez, he's practically become a public domain character despite not legally being in the public domain.
+§3This has all affected Inafune's attitude to this day. He blames himself at least in part for the cancellation of Megaman Legends 3 and would leap back onto the project right away if given another chance.
+
+§1Perhaps with another chance, Mighty No. 9 wouldn't have become a stillborn franchise due to his mismanagement either. He spent years lying low after that debacle. It feels like the only good thing he did with that project was kickstart Yooka-Laylee and Bloodstained: Ritual of the Night by proxy.
+
+§3It's a sad injustice to have a life so violently snuffed out when it's at the start of a renaissance and it seemed to have plenty more fruitful years left in it.
+
+The thing is though, even if we hadn't gotten Mega Man 11, the franchise would have lived on regardless.
+
+The fans won't let him die. Thanks to starring in many popular works from Mega Man Unlimited by MegaPhilX to Bob and George by David Anez, he's practically become a public domain character despite not legally being in the public domain.
 
 §9Perhaps the public domain isn't an area defined by law at all, but a concept in the science of anthropology? Perhaps everything enters the public domain immediately upon creation, regardless of what the law says?
 
-§bAfter all, it's pretty obvious by now that Mega Man has achieved immortality through the people who love him, like many old things have. Heck, programs as old as DOS still refuse to die as well even though we live in a world where everyone uses something that's at least comparable to Windows 7.
+§bAfter all, it's pretty obvious by now that Mega Man has achieved immortality through the people who love him, like many old things have. Heck, programs as old as DOS still refuse to die even though we live in a world where everyone uses something that's at least comparable to Windows 10.
 
 §9It's part of a life cycle. Something new comes along, it becomes popular for a while, then its turn ends and something else comes along. But the formerly new thing usually doesn't die outright; instead it gradually becomes vintage, a valuable antique, or a coveted luxury. It may even return to life in the public's eye one day after spending years living quietly and humbly, as if biding its time.
 
@@ -80,6 +90,8 @@
 
 §bBut as long as people love video games, the natural life cycle will continue.
 
+Even Inafune may eventually rebuild his career. He seems to have friends in high places, and enough of them want to see him succeed again that his name is attached to Azure Striker Gunvolt 3.
+
 §9At the very least, be thankful that creations always exist separately from their creators. The rights for those characters always end up going somewhere, and they'll either find loving homes with new creators, or the rights will expire, opening up the floodgates for fan works.
 
 §bCourse, it's not like that's ever stopped the Mega Man fandom before. And that's one thing we should always be thankful to Capcom for. Whether it's because they're apathetic or have never completely lost their sanity, Capcom has always been happy to let the fans keep their franchises warm for them until the day they, or whatever company will gain their rights should the worst happen, revisit them.
@@ -92,10 +104,22 @@
 
 §bSo even though preserving the sacred formula meant that the games eventually stopped being big enough to be worth burning to cartridges or discs, the fundamental nature of that design helped preserve the franchise against stagnation.
 
-§9Course, that also cursed the series in a way, ensuring that its villains and side characters would always be more interesting than its protagonist.
+Besides, perhaps originality itself can be overrated in specific circumstances. Can you blame people for wanting to keep revisiting an old friend? Would you like it if all your friends kept disappearing so you had to constantly go out to make new ones?
 
-§bBut Hitoshi Ariga and Ian Flynn did an excellent job at fixing that.
 
-§9Besides, even if you still insist on criticizing the franchise for being unoriginal, can you blame people for wanting to keep revisiting an old friend? Would you like it if all your friends kept disappearing so you had to constantly go out to make new ones?
 
-§bI didn't think so.
+
+
+
+
+You know... I've never considered myself to be that big of a Mega Man fan. But by now it's clear I've tumbled deeper and deeper into the fandom down a long, shallow slope.
+
+I've always been amazed at how Mega Man seems to be both popular and obscure at once. I drifted toward the franchise because it seemed to need a lot of love in spite of its endless sequels.
+
+And eventually, over time, I realized something.
+
+I realized that, in the modern day video game industry, Mega Man 12 is one of the few things left that's safe to get excited for. It'll either be great or it won't come out at all.
+
+That's when I made a deliberate decision to dive deeper into the fandom.
+
+That's when I knew I had to go back and revive Megacraft Classic.
