@@ -1,6 +1,31 @@
 {
     "variants": {
         "half=lower": { "model": "block/sunflower_bottom" },
-        "half=upper":    { "model": "block/sunflower_top" }
+        "half=upper": [
+			{ "model": "block/sunflower_top" },
+			{ "model": "block/sunflower_top1" },
+			{ "model": "block/sunflower_top2" },
+			{ "model": "block/sunflower_top3" },
+			{ "model": "block/sunflower_top4" },
+			{ "model": "block/sunflower_top5" },
+			{ "model": "block/sunflower_top6" },
+			{ "model": "block/sunflower_top7" },
+			{ "model": "block/sunflower_top8" },
+			{ "model": "block/sunflower_top9" },
+			{ "model": "block/sunflower_top10" },
+			{ "model": "block/sunflower_top11" },
+			{ "model": "block/sunflower_top12" },
+			{ "model": "block/sunflower_top13" },
+			{ "model": "block/sunflower_top14" },
+			{ "model": "block/sunflower_top15" },
+			{ "model": "block/sunflower_top16" },
+			{ "model": "block/sunflower_top17" },
+			{ "model": "block/sunflower_top18" },
+			{ "model": "block/sunflower_top19" },
+			{ "model": "block/sunflower_top20" },
+			{ "model": "block/sunflower_top21" },
+			{ "model": "block/sunflower_top22" },
+			{ "model": "block/sunflower_top23" }
+		]
     }
 }
