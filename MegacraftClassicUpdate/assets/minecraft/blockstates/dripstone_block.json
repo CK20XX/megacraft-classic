@@ -1,7 +1,14 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/dripstone_block"
-    }
+    "": [
+		{"model": "minecraft:block/dripstone_block"},
+		{"model": "minecraft:block/dripstone_block1"},
+		{"model": "minecraft:block/dripstone_block2"},
+		{"model": "minecraft:block/dripstone_block3"},
+		{"model": "minecraft:block/dripstone_block4"},
+		{"model": "minecraft:block/dripstone_block5"},
+		{"model": "minecraft:block/dripstone_block6"},
+		{"model": "minecraft:block/dripstone_block7"}
+	]
   }
 }

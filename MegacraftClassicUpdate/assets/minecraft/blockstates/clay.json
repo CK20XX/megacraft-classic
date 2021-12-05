@@ -1,5 +1,10 @@
 {
     "variants": {
-        "": { "model": "block/clay" }
+        "": [
+		{"model": "block/clay"},
+		{"model": "block/clay1"},
+		{"model": "block/clay2"},
+		{"model": "block/clay3"}
+		]
     }
 }

@@ -6,12 +6,12 @@
         "base": "block/spore_blossom_base"
     },
     "elements": [
-        {   "from": [ 1, 15.9, 1 ],
-            "to": [ 15, 15.9, 15 ],
+        {   "from": [ 0, 15.9, 0 ],
+            "to": [ 16, 15.9, 16 ],
             "shade": false,
             "faces": {
-                "up": { "uv": [ 1, 1, 15, 15 ], "texture": "#base"},
-                "down": { "uv": [ 1, 1, 15, 15 ], "texture": "#base"}
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#base"},
+                "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#base"}
             }
         },
         {   "from": [ 8, 15.7, 0 ],
