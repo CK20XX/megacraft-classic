@@ -767,7 +767,7 @@
   "book.generation.2": "Copy of a copy",
   "book.generation.3": "Tattered",
   "book.invalid.tag": "* Invalid book tag *",
-  "merchant.deprecated": "§fPickelmen restock up to two times per day.",
+  "merchant.deprecated": "§fVillagers restock up to two times per day.",
   "merchant.current_level": "§fTrader's current level",
   "merchant.next_level": "§fTrader's next level",
   "merchant.level.1": "§fNovice",
@@ -1853,7 +1853,7 @@
 
   "item.minecraft.turtle_spawn_egg": "Kamegoro Spawn Egg",
   "item.minecraft.vex_spawn_egg": "New Sibul Spawn Egg",
-  "item.minecraft.villager_spawn_egg": "Pickelmen Spawn Egg",
+  "item.minecraft.villager_spawn_egg": "Villager Spawn Egg",
 
   "item.minecraft.wandering_trader_spawn_egg": "Wandering Trader Spawn Egg",
 
@@ -2259,7 +2259,7 @@
   "entity.minecraft.villager.shepherd": "§fCybersheep Dreamer",
   "entity.minecraft.villager.toolsmith": "§fHardware Consultant",
   "entity.minecraft.villager.weaponsmith": "§fWeapon Systems Specialist",
-  "entity.minecraft.villager": "§fPickelmen",
+  "entity.minecraft.villager": "§fVillager",
 
   "entity.minecraft.wandering_trader": "§fWandering Trader",
 
@@ -2684,10 +2684,10 @@
   "stat.minecraft.sprint_one_cm": "Distance Sprinted",
   "stat.minecraft.walk_on_water_one_cm": "Distance Walked on Water",
   "stat.minecraft.swim_one_cm": "Distance Swum",
-  "stat.minecraft.talked_to_villager": "Talked to Pickelmen",
+  "stat.minecraft.talked_to_villager": "Talked to Villagers",
   "stat.minecraft.time_since_rest": "Time Since Last Recharge",
   "stat.minecraft.time_since_death": "Time Since Last Death",
-  "stat.minecraft.traded_with_villager": "Traded with Pickelmen",
+  "stat.minecraft.traded_with_villager": "Traded with Villagers",
   "stat.minecraft.treasure_fished": "Treasure Fished",
   "stat.minecraft.trigger_trapped_chest": "Trapped Chests Triggered",
   "stat.minecraft.tune_noteblock": "Note Blocks Tuned",
