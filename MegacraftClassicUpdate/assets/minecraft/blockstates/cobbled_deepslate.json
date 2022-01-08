@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/cobbled_deepslate"
-    }
+    "": [
+	  {"model": "minecraft:block/cobbled_deepslate"},
+	  {"model": "minecraft:block/cobbled_deepslate1"},
+	  {"model": "minecraft:block/cobbled_deepslate2"},
+	  {"model": "minecraft:block/cobbled_deepslate3"},
+	  {"model": "minecraft:block/cobbled_deepslate4"},
+	  {"model": "minecraft:block/cobbled_deepslate5"},
+	  {"model": "minecraft:block/cobbled_deepslate6"},
+	  {"model": "minecraft:block/cobbled_deepslate7"},
+	  {"model": "minecraft:block/cobbled_deepslate8"},
+	  {"model": "minecraft:block/cobbled_deepslate9"},
+	  {"model": "minecraft:block/cobbled_deepslate10"},
+	  {"model": "minecraft:block/cobbled_deepslate11"},
+	  {"model": "minecraft:block/cobbled_deepslate12"},
+	  {"model": "minecraft:block/cobbled_deepslate13"},
+	  {"model": "minecraft:block/cobbled_deepslate14"},
+	  {"model": "minecraft:block/cobbled_deepslate15"}
+	 ]
   }
 }

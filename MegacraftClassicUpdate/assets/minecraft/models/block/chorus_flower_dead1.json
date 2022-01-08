@@ -2,7 +2,7 @@
     "parent": "block/chorus_flower",
     "textures": {
         "texture": "block/chorus_flower_dead1",
-        "bottom": "block/chorus_plant",
+        "bottom": "block/chorus_flower_dead1",
         "particle": "block/chorus_flower_dead1"
     }
 }

@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/cube_column",
     "textures": {
-        "all": "block/gold_ore"
+        "end": "block/gold_ore_top",
+        "side": "block/gold_ore"
     }
 }

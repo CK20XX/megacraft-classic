@@ -1,7 +1,12 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/deepslate_tiles"
-    }
+    "": [
+	  {"model": "minecraft:block/deepslate_tiles"},
+	  {"model": "minecraft:block/deepslate_tiles1"},
+	  {"model": "minecraft:block/deepslate_tiles2"},
+	  {"model": "minecraft:block/deepslate_tiles3"},
+	  {"model": "minecraft:block/deepslate_tiles4"},
+	  {"model": "minecraft:block/deepslate_tiles5"}
+	]
   }
 }

@@ -19,7 +19,10 @@
             { "model": "block/iron_ore15" },
             { "model": "block/iron_ore16" },
             { "model": "block/iron_ore17" },
-            { "model": "block/iron_ore18" }
+            { "model": "block/iron_ore18" },
+			{ "model": "block/iron_ore19" },
+			{ "model": "block/iron_ore20" },
+			{ "model": "block/iron_ore21" }
         ]
     }
 }

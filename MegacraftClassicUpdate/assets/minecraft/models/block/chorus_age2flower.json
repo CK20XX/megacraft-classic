@@ -1,7 +1,7 @@
 {   "parent": "block/block",
     "textures": {
         "texture": "block/chorus_age2flower",
-        "bottom": "block/chorus_plant",
+        "bottom": "block/chorus_age2flower",
         "particle": "block/chorus_age2flower"
     },
     "elements": [

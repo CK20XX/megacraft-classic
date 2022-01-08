@@ -1,7 +1,30 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/cracked_deepslate_bricks"
-    }
+    "": [
+	  {"model": "minecraft:block/cracked_deepslate_bricks"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks1"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks2"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks3"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks4"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks5"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks6"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks7"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks8"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks9"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks10"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks11"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks12"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks13"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks14"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks15"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks16"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks17"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks18"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks19"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks20"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks21"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks22"},
+	  {"model": "minecraft:block/cracked_deepslate_bricks23"}
+	]
   }
 }

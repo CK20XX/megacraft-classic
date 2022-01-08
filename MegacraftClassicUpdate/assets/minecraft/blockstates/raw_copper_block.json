@@ -1,7 +1,14 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/raw_copper_block"
-    }
+    "": [
+	  {"model": "minecraft:block/raw_copper_block"},
+	  {"model": "minecraft:block/raw_copper_block1"},
+	  {"model": "minecraft:block/raw_copper_block2"},
+	  {"model": "minecraft:block/raw_copper_block3"},
+	  {"model": "minecraft:block/raw_copper_block4"},
+	  {"model": "minecraft:block/raw_copper_block5"},
+	  {"model": "minecraft:block/raw_copper_block6"},
+	  {"model": "minecraft:block/raw_copper_block7"}
+	]
   }
 }

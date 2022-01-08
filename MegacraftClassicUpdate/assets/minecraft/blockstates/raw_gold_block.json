@@ -1,7 +1,34 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/raw_gold_block"
-    }
+    "": [
+	  {"model": "minecraft:block/raw_gold_block"},
+	  {"model": "minecraft:block/raw_gold_block1"},
+	  {"model": "minecraft:block/raw_gold_block2"},
+	  {"model": "minecraft:block/raw_gold_block3"},
+	  {"model": "minecraft:block/raw_gold_block4"},
+	  {"model": "minecraft:block/raw_gold_block5"},
+	  {"model": "minecraft:block/raw_gold_block6"},
+	  {"model": "minecraft:block/raw_gold_block7"},
+	  {"model": "minecraft:block/raw_gold_block8"},
+	  {"model": "minecraft:block/raw_gold_block9"},
+	  {"model": "minecraft:block/raw_gold_block10"},
+	  {"model": "minecraft:block/raw_gold_block11"},
+	  {"model": "minecraft:block/raw_gold_block12"},
+	  {"model": "minecraft:block/raw_gold_block13"},
+	  {"model": "minecraft:block/raw_gold_block14"},
+	  {"model": "minecraft:block/raw_gold_block15"},
+	  {"model": "minecraft:block/raw_gold_block16"},
+	  {"model": "minecraft:block/raw_gold_block17"},
+	  {"model": "minecraft:block/raw_gold_block18"},
+	  {"model": "minecraft:block/raw_gold_block19"},
+	  {"model": "minecraft:block/raw_gold_block20"},
+	  {"model": "minecraft:block/raw_gold_block21"},
+	  {"model": "minecraft:block/raw_gold_block22"},
+	  {"model": "minecraft:block/raw_gold_block23"},
+	  {"model": "minecraft:block/raw_gold_block24"},
+	  {"model": "minecraft:block/raw_gold_block25"},
+	  {"model": "minecraft:block/raw_gold_block26"},
+	  {"model": "minecraft:block/raw_gold_block27"}
+	]
   }
 }
