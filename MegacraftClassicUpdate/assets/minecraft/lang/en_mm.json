@@ -3974,14 +3974,15 @@
   "subtitles.entity.villager.work_fisherman": "Mariner works",
   "subtitles.entity.villager.work_fletcher": "Arms Dealer works",
   "subtitles.entity.villager.work_leatherworker": "Tailor works",
-  "subtitles.entity.villager.work_librarian": "Data Center Technician works",
+  "subtitles.entity.villager.work_librarian": "Data Center Technician coding",
 
   "subtitles.entity.villager.work_mason": "Mason works",
 
-  "subtitles.entity.villager.work_shepherd": "Cybersheep Dreamer",
+  "subtitles.entity.villager.work_shepherd": "Cybersheep Dreamer dreaming",
   "subtitles.entity.villager.work_toolsmith": "Hardware Consultant works",
   "subtitles.entity.villager.work_weaponsmith": "Weapon Systems Specialist works",
   "subtitles.entity.villager.yes": "Villager agrees",
+  
   "subtitles.entity.vindicator.ambient": "Hachetsuji busies itself",
   "subtitles.entity.vindicator.celebrate": "Hachetsuji cheers",
   "subtitles.entity.vindicator.death": "Hachetsuji breaks down",
@@ -4200,7 +4201,7 @@
   "advancements.adventure.trade.description": "Successfully trade with a Villager",
 
   "advancements.adventure.throw_trident.title": "A Throwaway Joke",
-  "advancements.adventure.throw_trident.description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
+  "advancements.adventure.throw_trident.description": "Throw a Laser Trident at something.\nNote: Throwing away your only weapon is not a good idea.",
   "advancements.adventure.two_birds_one_arrow.title": "Sniper Cool",
   "advancements.adventure.two_birds_one_arrow.description": "Kill two Mothrayas with a piercing arrow",
   "advancements.adventure.very_very_frightening.title": "Very Very Frightening",
@@ -4209,8 +4210,6 @@
   "advancements.adventure.voluntary_exile.description": "Kill a raid captain and get a tracking bug snuck onto you.\nMaybe consider staying away from villages for the time being...",
   "advancements.adventure.whos_the_pillager_now.title": "Who's the Pillager Now?",
   "advancements.adventure.whos_the_pillager_now.description": "Give a Pillager a taste of their own medicine",
-
-
 
   "advancements.husbandry.root.title": "§fDr. Light's Lessons",
   "advancements.husbandry.root.description": "Time to learn how to achieve world peace",
@@ -4234,22 +4233,20 @@
 
   "advancements.husbandry.complete_catalogue.title": "Good Meow-ning!",
   "advancements.husbandry.complete_catalogue.description": "Tame all cat variants!",
-  "advancements.husbandry.safely_harvest_honey.title": "Bee Our Guest",
-  "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
+  "advancements.husbandry.safely_harvest_honey.title": "Firewall",
+  "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to make a HON-E-Tank from a Beehive using an Empty Tank without aggravating the bees",
   "advancements.husbandry.silk_touch_nest.title": "Total Beelocation",
   "advancements.husbandry.silk_touch_nest.description": "Move a Bee Nest, with 3 bees inside, using Silk Touch",
 
   "advancements.husbandry.balanced_diet.title": "Mr. Fusion",
   "advancements.husbandry.balanced_diet.description": "Consume everything that is edible, even if it's not good for you",
 
-
-
   "advancements.end.dragon_breath.title": "Like Farming For Screws",
-  "advancements.end.dragon_breath.description": "Collect dragon's breath in a glass bottle",
+  "advancements.end.dragon_breath.description": "Collect dragon's breath in an empty Tank",
   "advancements.end.dragon_egg.title": "There'll Never Be an Egg Man",
-  "advancements.end.dragon_egg.description": "Hold the  Mecha Dragon's Egg",
+  "advancements.end.dragon_egg.description": "Hold the Mecha Dragon's Egg",
   "advancements.end.elytra.title": "Gives you wiiings!",
-  "advancements.end.elytra.description": "Find an R-Tank",
+  "advancements.end.elytra.description": "Find an R-Tank\nFuelled by Mothraya Wings!",
   "advancements.end.enter_end_gateway.title": "What's With This Place?!",
   "advancements.end.enter_end_gateway.description": "Let's explore more of this uncanny dimension",
   "advancements.end.find_end_city.title": "Worse Than a Wily Fortress?",
@@ -4262,8 +4259,6 @@
   "advancements.end.respawn_dragon.description": "Respawn the Mecha Dragon",
   "advancements.end.root.title": "§fGemini Land",
   "advancements.end.root.description": "Makes you want to punch a mirror.",
-
-
 
   "advancements.nether.brew_potion.title": "Chemistry Experiment",
   "advancements.nether.brew_potion.description": "Synthesize an E-Tank",
@@ -4292,8 +4287,8 @@
   "advancements.nether.uneasy_alliance.title": "Sense of Justice My Foot",
   "advancements.nether.uneasy_alliance.description": "Shepard a Big Telly safely to the Overworld... then discover you can't reprogram it to be good, and destroy it.",
 
-  "advancements.nether.obtain_ancient_debris.title": "Hidden in the Depths",
-  "advancements.nether.obtain_ancient_debris.description": "Obtain Ancient Debris",
+  "advancements.nether.obtain_ancient_debris.title": "Power of the Stars",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Bassnium Scrap",
   "advancements.nether.netherite_armor.title": "Wily's Third-Greatest",
   "advancements.nether.netherite_armor.description": "Assemble the Bassnium armor set.",
   "advancements.nether.use_lodestone.title": "I'm Search Man, okay!",
