@@ -1,13 +1,28 @@
 {
-  "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/deepslate_tile_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/deepslate_tiles"
-    },
-    "type=top": {
-      "model": "minecraft:block/deepslate_tile_slab_top"
+    "variants": {
+        "type=bottom": [
+            { "model": "block/deepslate_tile_slab" },
+            { "model": "block/deepslate_tile_slab1" },
+            { "model": "block/deepslate_tile_slab2" },
+            { "model": "block/deepslate_tile_slab3" },
+            { "model": "block/deepslate_tile_slab4" },
+            { "model": "block/deepslate_tile_slab5" }
+        ],
+        "type=top": [
+          { "model": "block/deepslate_tile_slab_top" },
+          { "model": "block/deepslate_tile_slab_top1" },
+          { "model": "block/deepslate_tile_slab_top2" },
+          { "model": "block/deepslate_tile_slab_top3" },
+          { "model": "block/deepslate_tile_slab_top4" },
+          { "model": "block/deepslate_tile_slab_top5" }
+        ],
+        "type=double": [
+          { "model": "block/deepslate_tiles" },
+          { "model": "block/deepslate_tiles1" },
+          { "model": "block/deepslate_tiles2" },
+          { "model": "block/deepslate_tiles3" },
+          { "model": "block/deepslate_tiles4" },
+          { "model": "block/deepslate_tiles5" }
+        ]
     }
-  }
 }

@@ -1,13 +1,28 @@
 {
-  "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/polished_deepslate_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/polished_deepslate"
-    },
-    "type=top": {
-      "model": "minecraft:block/polished_deepslate_slab_top"
+    "variants": {
+        "type=bottom": [
+            { "model": "block/polished_deepslate_slab" },
+            { "model": "block/polished_deepslate_slab1" },
+            { "model": "block/polished_deepslate_slab2" },
+            { "model": "block/polished_deepslate_slab3" },
+            { "model": "block/polished_deepslate_slab4" },
+            { "model": "block/polished_deepslate_slab5" }
+        ],
+        "type=top": [
+          { "model": "block/polished_deepslate_slab_top" },
+          { "model": "block/polished_deepslate_slab_top1" },
+          { "model": "block/polished_deepslate_slab_top2" },
+          { "model": "block/polished_deepslate_slab_top3" },
+          { "model": "block/polished_deepslate_slab_top4" },
+          { "model": "block/polished_deepslate_slab_top5" }
+        ],
+        "type=double": [
+          { "model": "block/polished_deepslate" },
+          { "model": "block/polished_deepslate1" },
+          { "model": "block/polished_deepslate2" },
+          { "model": "block/polished_deepslate3" },
+          { "model": "block/polished_deepslate4" },
+          { "model": "block/polished_deepslate5" }
+        ]
     }
-  }
 }

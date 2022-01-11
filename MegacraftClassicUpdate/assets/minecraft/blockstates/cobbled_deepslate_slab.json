@@ -1,13 +1,58 @@
 {
-  "variants": {
-    "type=bottom": {
-      "model": "minecraft:block/cobbled_deepslate_slab"
-    },
-    "type=double": {
-      "model": "minecraft:block/cobbled_deepslate"
-    },
-    "type=top": {
-      "model": "minecraft:block/cobbled_deepslate_slab_top"
+    "variants": {
+        "type=bottom": [
+            { "model": "block/cobbled_deepslate_slab" },
+            { "model": "block/cobbled_deepslate_slab1" },
+            { "model": "block/cobbled_deepslate_slab2" },
+            { "model": "block/cobbled_deepslate_slab3" },
+            { "model": "block/cobbled_deepslate_slab4" },
+            { "model": "block/cobbled_deepslate_slab5" },
+            { "model": "block/cobbled_deepslate_slab6" },
+            { "model": "block/cobbled_deepslate_slab7" },
+            { "model": "block/cobbled_deepslate_slab8" },
+            { "model": "block/cobbled_deepslate_slab9" },
+            { "model": "block/cobbled_deepslate_slab10" },
+            { "model": "block/cobbled_deepslate_slab11" },
+            { "model": "block/cobbled_deepslate_slab12" },
+            { "model": "block/cobbled_deepslate_slab13" },
+            { "model": "block/cobbled_deepslate_slab14" },
+            { "model": "block/cobbled_deepslate_slab15" }
+        ],
+        "type=top": [
+          { "model": "block/cobbled_deepslate_slab_top" },
+          { "model": "block/cobbled_deepslate_slab_top1" },
+          { "model": "block/cobbled_deepslate_slab_top2" },
+          { "model": "block/cobbled_deepslate_slab_top3" },
+          { "model": "block/cobbled_deepslate_slab_top4" },
+          { "model": "block/cobbled_deepslate_slab_top5" },
+          { "model": "block/cobbled_deepslate_slab_top6" },
+          { "model": "block/cobbled_deepslate_slab_top7" },
+          { "model": "block/cobbled_deepslate_slab_top8" },
+          { "model": "block/cobbled_deepslate_slab_top9" },
+          { "model": "block/cobbled_deepslate_slab_top10" },
+          { "model": "block/cobbled_deepslate_slab_top11" },
+          { "model": "block/cobbled_deepslate_slab_top12" },
+          { "model": "block/cobbled_deepslate_slab_top13" },
+          { "model": "block/cobbled_deepslate_slab_top14" },
+          { "model": "block/cobbled_deepslate_slab_top15" }
+        ],
+        "type=double": [
+          { "model": "block/cobbled_deepslate" },
+          { "model": "block/cobbled_deepslate1" },
+          { "model": "block/cobbled_deepslate2" },
+          { "model": "block/cobbled_deepslate3" },
+          { "model": "block/cobbled_deepslate4" },
+          { "model": "block/cobbled_deepslate5" },
+          { "model": "block/cobbled_deepslate6" },
+          { "model": "block/cobbled_deepslate7" },
+          { "model": "block/cobbled_deepslate8" },
+          { "model": "block/cobbled_deepslate9" },
+          { "model": "block/cobbled_deepslate10" },
+          { "model": "block/cobbled_deepslate11" },
+          { "model": "block/cobbled_deepslate12" },
+          { "model": "block/cobbled_deepslate13" },
+          { "model": "block/cobbled_deepslate14" },
+          { "model": "block/cobbled_deepslate15" }
+        ]
     }
-  }
 }

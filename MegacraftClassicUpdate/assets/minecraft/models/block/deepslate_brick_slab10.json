@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/deepslate_bricks10",
+    "top": "minecraft:block/deepslate_bricks10",
+    "side": "minecraft:block/deepslate_bricks10"
+  }
+}
