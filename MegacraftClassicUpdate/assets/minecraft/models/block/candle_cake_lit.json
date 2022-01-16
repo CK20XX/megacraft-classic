@@ -1,7 +1,8 @@
 {
-  "parent": "minecraft:block/template_cake_with_candle",
+  "parent": "minecraft:block/template_cake_with_candle_lit",
   "textures": {
     "candle": "minecraft:block/candle_lit",
+    "wick": "minecraft:block/candle_wick"
     "bottom": "minecraft:block/cake_bottom",
     "side": "minecraft:block/cake_side",
     "top": "minecraft:block/cake_top",

@@ -1,6 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
+	"textures": {
+		"wick": "block/candle_wick"
+	},
 	"elements": [
 		{
 			"from": [7, 0, 9],
@@ -19,8 +22,8 @@
 			"to": [8.5, 4, 10],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 10]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#small"},
-				"south": {"uv": [2, 5, 1, 6], "texture": "#small"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [1, 15, 0, 16], "texture": "#wick"}
 			}
 		},
 		{
@@ -28,8 +31,8 @@
 			"to": [8.5, 4, 10],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 3, 10]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#small"},
-				"south": {"uv": [2, 5, 1, 6], "texture": "#small"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [1, 15, 0, 16], "texture": "#wick"}
 			}
 		},
 		{
@@ -49,8 +52,8 @@
 			"to": [6.5, 6, 8],
 			"rotation": {"angle": 45, "axis": "y", "origin": [6, 5, 8]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#small"},
-				"south": {"uv": [2, 5, 1, 6], "texture": "#small"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [1, 15, 0, 16], "texture": "#wick"}
 			}
 		},
 		{
@@ -58,8 +61,8 @@
 			"to": [6.5, 6, 8],
 			"rotation": {"angle": -45, "axis": "y", "origin": [6, 5, 8]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#small"},
-				"south": {"uv": [2, 5, 1, 6], "texture": "#small"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [1, 15, 0, 16], "texture": "#wick"}
 			}
 		},
 		{
@@ -79,8 +82,8 @@
 			"to": [9.5, 7, 7],
 			"rotation": {"angle": 45, "axis": "y", "origin": [9, 6, 7]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#large"},
-				"south": {"uv": [1, 5, 2, 6], "texture": "#large"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [0, 15, 1, 16], "texture": "#wick"}
 			}
 		},
 		{
@@ -88,8 +91,8 @@
 			"to": [9.5, 7, 7],
 			"rotation": {"angle": -45, "axis": "y", "origin": [9, 6, 7]},
 			"faces": {
-				"north": {"uv": [1, 5, 2, 6], "texture": "#large"},
-				"south": {"uv": [1, 5, 2, 6], "texture": "#large"}
+				"north": {"uv": [0, 15, 1, 16], "texture": "#wick"},
+				"south": {"uv": [0, 15, 1, 16], "texture": "#wick"}
 			}
 		}
 	]
