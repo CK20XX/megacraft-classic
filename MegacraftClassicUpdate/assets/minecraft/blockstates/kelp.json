@@ -25,7 +25,6 @@
 		"age=22": {"model": "block/kelp_age22"},
 		"age=23": {"model": "block/kelp_age23"},
 		"age=24": {"model": "block/kelp_age24"},
-        "age=25": {"model": "block/kelp_age25"},
-        "normal": {"model": "block/kelp"}
+        "age=25": {"model": "block/kelp_age25"}
     }
 }
