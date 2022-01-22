@@ -1,7 +1,6 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/lime_candle_cake"
-    }
+    "lit=false": { "model": "block/lime_candle_cake" },
+    "lit=true": { "model": "block/lime_candle_cake_lit"}
   }
 }

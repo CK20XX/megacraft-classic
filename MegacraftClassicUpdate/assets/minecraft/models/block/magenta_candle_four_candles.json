@@ -1,7 +1,8 @@
 {
   "parent": "minecraft:block/template_four_candles",
   "textures": {
-    "all": "minecraft:block/magenta_candle",
+    "large": "minecraft:block/magenta_candle",
+    "small": "minecraft:block/magenta_candle_small",
     "particle": "minecraft:block/magenta_candle"
   }
 }

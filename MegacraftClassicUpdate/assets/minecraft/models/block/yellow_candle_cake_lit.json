@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/template_cake_with_candle",
+  "parent": "minecraft:block/template_cake_with_candle_lit",
   "textures": {
     "candle": "minecraft:block/yellow_candle_lit",
     "bottom": "minecraft:block/cake_bottom",
