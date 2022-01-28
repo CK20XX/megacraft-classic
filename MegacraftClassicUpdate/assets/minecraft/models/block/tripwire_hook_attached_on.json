@@ -2,17 +2,16 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/tripwire_base_attached",
-		"tripwire": "block/tripwire",
-		"particle": "block/tripwire_base_attached"
+		"tripwire": "block/tripwire"
 	},
 	"elements": [
 		{
-			"from": [7.75, 2, 2],
-			"to": [8.25, 2, 9],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0, 0], "rescale": true},
+			"from": [7.75, 0.5, 0],
+			"to": [8.25, 0.5, 6.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 0], "rescale": true},
 			"faces": {
-				"up": {"uv": [0, 1, 16, 3], "rotation": 90, "texture": "#tripwire"},
-				"down": {"uv": [0, 3, 16, 1], "rotation": 90, "texture": "#tripwire"}
+				"up": {"uv": [0, 4, 16, 6], "rotation": 90, "texture": "#tripwire"},
+				"down": {"uv": [0, 6, 16, 4], "rotation": 90, "texture": "#tripwire"}
 			}
 		},
 		{
@@ -53,8 +52,8 @@
 		},
 		{
 			"name": "grey",
-			"from": [7, 4, 14.99],
-			"to": [9, 8, 15.99],
+			"from": [7, 4, 15],
+			"to": [9, 8, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.5, 14]},
 			"faces": {
 				"north": {"uv": [1, 11, 3, 15], "texture": "#3"},
@@ -63,6 +62,18 @@
 				"west": {"uv": [3, 11, 4, 15], "texture": "#3"},
 				"up": {"uv": [3, 11, 1, 10], "texture": "#3"},
 				"down": {"uv": [3, 16, 1, 15], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7, 2, 5],
+			"to": [9, 4, 14],
+			"faces": {
+				"north": {"uv": [5, 12, 7, 14], "texture": "#3"},
+				"east": {"uv": [7, 12, 16, 14], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [5, 12, 7, 14], "texture": "#3"},
+				"west": {"uv": [7, 14, 16, 16], "texture": "#3"},
+				"up": {"uv": [7, 10, 16, 12], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [7, 14, 16, 16], "rotation": 90, "texture": "#3"}
 			}
 		}
 	]

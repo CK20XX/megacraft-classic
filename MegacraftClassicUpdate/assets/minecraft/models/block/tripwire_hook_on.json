@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/tripwire_base_attached",
-		"particle": "block/tripwire_base_attached"
+		"2": "block/tripwire_base_attached"
 	},
 	"elements": [
 		{
