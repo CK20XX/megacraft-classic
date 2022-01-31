@@ -3,7 +3,14 @@
     "": [
 		{"model": "minecraft:block/powder_snow"},
 		{"model": "minecraft:block/powder_snow1"},
-		{"model": "minecraft:block/powder_snow2"}
+		{"model": "minecraft:block/powder_snow2"},
+		{"model": "minecraft:block/powder_snow3"},
+		{"model": "minecraft:block/powder_snow4"},
+		{"model": "minecraft:block/powder_snow5"},
+		{"model": "minecraft:block/powder_snow6"},
+		{"model": "minecraft:block/powder_snow7"},
+		{"model": "minecraft:block/powder_snow8"},
+		{"model": "minecraft:block/powder_snow9"}
 	]
   }
 }
