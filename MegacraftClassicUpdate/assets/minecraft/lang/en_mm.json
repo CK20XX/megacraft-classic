@@ -2042,7 +2042,7 @@
   "container.dispenser": "§fSentry Device",
   "container.dropper": "§fVending Machine",
   "container.enchant": "§fProgramming",
-  "container.enchant.clue": "%s . . . ?",
+  "container.enchant.clue": "§kmega§r§o%s§r§o§kmega§r",
   "container.enchant.lapis.many": "%s Alien Gems",
   "container.enchant.lapis.one": "1 Alien Gem",
   "container.enchant.level.many": "%s Power Injections",
