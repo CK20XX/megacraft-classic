@@ -1885,7 +1885,7 @@
   "item.minecraft.music_disc_mall.desc": "Willy Stage 1 - Saitama Saisya Heiki",
   "item.minecraft.music_disc_mellohi": "Music CD - Mega Man Mariachi Cover",
   "item.minecraft.music_disc_mellohi.desc": "Mega Man Mariachi Cover - Lotus String Quartet",
-  "item.minecraft.music_disc_pigstep": "Music CD - Pigstep",
+  "item.minecraft.music_disc_pigstep": "Music CD - §kPigstep",
   "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep",
   "item.minecraft.music_disc_stal": "Music CD - Airman ga Taosenai",
   "item.minecraft.music_disc_stal.desc": "Airman ga Taosenai - Team Nekokan",
@@ -1895,7 +1895,7 @@
   "item.minecraft.music_disc_wait.desc": "Saturn's Last Halo - Protricity",
   "item.minecraft.music_disc_ward": "Music CD - Abandoned Memory",
   "item.minecraft.music_disc_ward.desc": "Abandoned Memory - Protricity",
-  "item.minecraft.music_disc_otherside": "Music CD - otherside",
+  "item.minecraft.music_disc_otherside": "Music CD - §kotherside",
   "item.minecraft.music_disc_otherside.desc": "Lena Raine - otherside",
   
   "item.minecraft.mutton": "Antique Weapon Capsule",
@@ -4292,7 +4292,7 @@
   "advancements.nether.uneasy_alliance.description": "Shepard a Big Telly safely to the Overworld... then discover you can't reprogram it to be good, and destroy it.",
 
   "advancements.nether.obtain_ancient_debris.title": "Power of the Stars",
-  "advancements.nether.obtain_ancient_debris.description": "Obtain Bassnium Scrap",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Cosmic Remains",
   "advancements.nether.netherite_armor.title": "Wily's Third-Greatest",
   "advancements.nether.netherite_armor.description": "Assemble the Bassnium armor set.",
   "advancements.nether.use_lodestone.title": "I'm Search Man, okay!",
