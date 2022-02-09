@@ -1,24 +1,36 @@
 {
     "variants": {
         "facing=east": [
-            { "model": "block/wall_torch" },
-            { "model": "block/wall_torch1" },
-            { "model": "block/wall_torch2" }
+            { "model": "block/torch_man_wall" },
+            { "model": "block/torch_man_wall1" },
+            { "model": "block/torch_man_wall2" },
+			{ "model": "block/torch_man_wall3" },
+			{ "model": "block/torch_man_wall4" },
+			{ "model": "block/torch_man_wall5" }
           ],
         "facing=south": [
-            { "model": "block/wall_torch", "y": 90 },
-            { "model": "block/wall_torch1", "y": 90 },
-            { "model": "block/wall_torch2", "y": 90 }
+            { "model": "block/torch_man_wall", "y": 90 },
+            { "model": "block/torch_man_wall1", "y": 90 },
+            { "model": "block/torch_man_wall2", "y": 90 },
+			{ "model": "block/torch_man_wall3", "y": 90 },
+			{ "model": "block/torch_man_wall4", "y": 90 },
+			{ "model": "block/torch_man_wall5", "y": 90 }
           ],
         "facing=west": [
-            { "model": "block/wall_torch", "y": 180 },
-            { "model": "block/wall_torch1", "y": 180 },
-            { "model": "block/wall_torch2", "y": 180 }
+            { "model": "block/torch_man_wall", "y": 180 },
+            { "model": "block/torch_man_wall1", "y": 180 },
+            { "model": "block/torch_man_wall2", "y": 180 },
+			{ "model": "block/torch_man_wall3", "y": 180 },
+			{ "model": "block/torch_man_wall4", "y": 180 },
+			{ "model": "block/torch_man_wall5", "y": 180 }
           ],
         "facing=north": [
-            { "model": "block/wall_torch", "y": 270 },
-            { "model": "block/wall_torch1", "y": 270 },
-            { "model": "block/wall_torch2", "y": 270 }
+            { "model": "block/torch_man_wall", "y": 270 },
+            { "model": "block/torch_man_wall1", "y": 270 },
+            { "model": "block/torch_man_wall2", "y": 270 },
+			{ "model": "block/torch_man_wall3", "y": 270 },
+			{ "model": "block/torch_man_wall4", "y": 270 },
+			{ "model": "block/torch_man_wall5", "y": 270 }
           ]
     }
 }

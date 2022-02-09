@@ -1,9 +1,12 @@
 {
     "variants": {
         "": [
-           { "model": "block/torch" },
-           { "model": "block/torch1" },
-           { "model": "block/torch2" }
+           { "model": "block/torch_man" },
+           { "model": "block/torch_man1" },
+           { "model": "block/torch_man2" },
+		   { "model": "block/torch_man3" },
+		   { "model": "block/torch_man4" },
+		   { "model": "block/torch_man5" }
         ]
     }
 }
