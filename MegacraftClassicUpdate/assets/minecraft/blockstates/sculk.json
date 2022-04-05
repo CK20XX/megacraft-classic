@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/sculk"},
+	  {"model": "minecraft:block/sculk1"},
+	  {"model": "minecraft:block/sculk2"},
+	  {"model": "minecraft:block/sculk3"},
+	  {"model": "minecraft:block/sculk4"},
+	  {"model": "minecraft:block/sculk5"},
+	  {"model": "minecraft:block/sculk6"},
+	  {"model": "minecraft:block/sculk7"},
+	  {"model": "minecraft:block/sculk8"},
+	  {"model": "minecraft:block/sculk9"},
+	  {"model": "minecraft:block/sculk10"},
+	  {"model": "minecraft:block/sculk11"},
+	  {"model": "minecraft:block/sculk12"},
+	  {"model": "minecraft:block/sculk13"},
+	  {"model": "minecraft:block/sculk14"},
+	  {"model": "minecraft:block/sculk15"},
+	  {"model": "minecraft:block/sculk16"},
+	  {"model": "minecraft:block/sculk17"},
+	  {"model": "minecraft:block/sculk18"},
+	  {"model": "minecraft:block/sculk19"},
+	  {"model": "minecraft:block/sculk20"},
+	  {"model": "minecraft:block/sculk21"},
+	  {"model": "minecraft:block/sculk22"},
+	  {"model": "minecraft:block/sculk23"},
+	  {"model": "minecraft:block/sculk24"},
+	  {"model": "minecraft:block/sculk25"},
+	  {"model": "minecraft:block/sculk26"},
+	  {"model": "minecraft:block/sculk27"},
+	  {"model": "minecraft:block/sculk28"},
+	  {"model": "minecraft:block/sculk29"},
+	  {"model": "minecraft:block/sculk30"},
+	  {"model": "minecraft:block/sculk31"}
+    ]
+  }
+}

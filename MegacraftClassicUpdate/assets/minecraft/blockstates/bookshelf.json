@@ -21,7 +21,8 @@
     			{ "model": "block/bookshelf17" },
     			{ "model": "block/bookshelf18" },
     			{ "model": "block/bookshelf19" },
-    			{ "model": "block/bookshelf20" }
+    			{ "model": "block/bookshelf20" },
+				{ "model": "block/bookshelf21" }
 		    ]
     }
 }
