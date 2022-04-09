@@ -1,7 +1,7 @@
 {
   "parent": "item/clock/generated",
   "textures": {
-      "layer0": "item/clock/clock_00"
+      "layer0": "item/clock/clock-001"
       },
   "overrides": [
     { "predicate": { "time": 0.0000000 }, "model": "item/clock/clock_001" },
