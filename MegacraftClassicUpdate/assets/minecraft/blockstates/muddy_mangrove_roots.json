@@ -1,16 +1,40 @@
 {
   "variants": {
-    "axis=x": {
-      "model": "minecraft:block/muddy_mangrove_roots",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/muddy_mangrove_roots"
-    },
-    "axis=z": {
-      "model": "minecraft:block/muddy_mangrove_roots",
-      "x": 90
-    }
+    "axis=x": [
+		{"model": "minecraft:block/muddy_mangrove_roots","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots1","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots2","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots3","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots4","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots5","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots6","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots7","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots8","x": 90,"y": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots9","x": 90,"y": 90}
+	],
+    "axis=y": [
+		{"model": "minecraft:block/muddy_mangrove_roots"},
+		{"model": "minecraft:block/muddy_mangrove_roots1"},
+		{"model": "minecraft:block/muddy_mangrove_roots2"},
+		{"model": "minecraft:block/muddy_mangrove_roots3"},
+		{"model": "minecraft:block/muddy_mangrove_roots4"},
+		{"model": "minecraft:block/muddy_mangrove_roots5"},
+		{"model": "minecraft:block/muddy_mangrove_roots6"},
+		{"model": "minecraft:block/muddy_mangrove_roots7"},
+		{"model": "minecraft:block/muddy_mangrove_roots8"},
+		{"model": "minecraft:block/muddy_mangrove_roots9"}
+	],
+    "axis=z": [
+		{"model": "minecraft:block/muddy_mangrove_roots","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots1","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots2","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots3","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots4","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots5","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots6","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots7","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots8","x": 90},
+		{"model": "minecraft:block/muddy_mangrove_roots9","x": 90}
+	]
   }
 }

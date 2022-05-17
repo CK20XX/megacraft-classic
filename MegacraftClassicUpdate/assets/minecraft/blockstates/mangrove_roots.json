@@ -1,7 +1,16 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/mangrove_roots"
-    }
+    "": [
+		{"model": "minecraft:block/mangrove_roots"},
+		{"model": "minecraft:block/mangrove_roots1"},
+		{"model": "minecraft:block/mangrove_roots2"},
+		{"model": "minecraft:block/mangrove_roots3"},
+		{"model": "minecraft:block/mangrove_roots4"},
+		{"model": "minecraft:block/mangrove_roots5"},
+		{"model": "minecraft:block/mangrove_roots6"},
+		{"model": "minecraft:block/mangrove_roots7"},
+		{"model": "minecraft:block/mangrove_roots8"},
+		{"model": "minecraft:block/mangrove_roots9"}
+	]
   }
 }
