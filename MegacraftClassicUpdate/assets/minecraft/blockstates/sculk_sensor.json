@@ -1,13 +1,13 @@
 {
   "variants": {
     "sculk_sensor_phase=active": {
-      "model": "minecraft:block/sculk_sensor_active"
+      "model": "minecraft:block/sculk_sensor_on"
     },
     "sculk_sensor_phase=cooldown": {
-      "model": "minecraft:block/sculk_sensor_inactive"
+      "model": "minecraft:block/sculk_sensor_pause"
     },
     "sculk_sensor_phase=inactive": {
-      "model": "minecraft:block/sculk_sensor_inactive"
+      "model": "minecraft:block/sculk_sensor_off"
     }
   }
 }
