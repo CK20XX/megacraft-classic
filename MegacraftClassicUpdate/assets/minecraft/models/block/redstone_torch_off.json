@@ -1,6 +1,34 @@
 {
-    "parent": "block/template_torch",
-    "textures": {
-        "torch": "block/redstone_torch_off"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "block/template_torch",
+	"textures": {
+		"torch": "block/redstone_torch_off"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 14]},
+			"faces": {
+				"north": {"uv": [6, 2, 10, 12], "texture": "#torch"},
+				"east": {"uv": [6, 2, 10, 12], "texture": "#torch"},
+				"south": {"uv": [6, 2, 10, 12], "texture": "#torch"},
+				"west": {"uv": [6, 2, 10, 12], "texture": "#torch"},
+				"up": {"uv": [6, 12, 10, 16], "texture": "#torch"},
+				"down": {"uv": [6, 12, 10, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [7, 10, 7],
+			"to": [9, 11, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 18, 15]},
+			"faces": {
+				"north": {"uv": [7, 3, 9, 4], "texture": "#torch"},
+				"east": {"uv": [7, 3, 9, 4], "texture": "#torch"},
+				"south": {"uv": [7, 3, 9, 4], "texture": "#torch"},
+				"west": {"uv": [7, 3, 9, 4], "texture": "#torch"},
+				"up": {"uv": [2, 9, 4, 11], "texture": "#torch"}
+			}
+		}
+	]
 }
