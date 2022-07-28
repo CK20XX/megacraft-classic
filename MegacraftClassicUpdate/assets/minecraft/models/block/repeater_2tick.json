@@ -1,9 +1,9 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/repeater",
+        "particle": "block/repeater_2",
         "slab": "block/smooth_stone",
-        "top": "block/repeater",
+        "top": "block/repeater_2",
         "unlit": "block/redstone_torch_off"
     },
     "elements": [

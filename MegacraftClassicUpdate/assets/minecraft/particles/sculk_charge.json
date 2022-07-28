@@ -1,0 +1,15 @@
+{
+  "textures": [
+    "minecraft:sculk_charge_0",
+    "minecraft:sculk_charge_1",
+    "minecraft:sculk_charge_2",
+    "minecraft:sculk_charge_3",
+    "minecraft:sculk_charge_4",
+    "minecraft:sculk_charge_5",
+    "minecraft:sculk_charge_6",
+	"minecraft:sculk_charge_7",
+	"minecraft:sculk_charge_8",
+	"minecraft:sculk_charge_9",
+	"minecraft:sculk_charge_10"
+  ]
+}
