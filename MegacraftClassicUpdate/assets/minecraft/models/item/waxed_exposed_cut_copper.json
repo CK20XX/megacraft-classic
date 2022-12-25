@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/exposed_cut_copper",
+  "textures": {"all": "minecraft:item/waxed_exposed_cut_copper"}
+}
