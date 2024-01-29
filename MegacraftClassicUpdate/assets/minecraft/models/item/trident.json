@@ -2,5 +2,19 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/trident"
-  }
+  },
+    "overrides": [
+        {
+            "predicate": {"damaged": 1,"damage": 0.85},
+            "model": "item/trident_worn1"
+        },
+        {
+            "predicate": {"damaged": 1,"damage": 0.9},
+            "model": "item/trident_worn2"
+        },
+        {
+            "predicate": {"damaged": 1,"damage": 0.95},
+            "model": "item/trident_worn3"
+        }
+    ]
 }
