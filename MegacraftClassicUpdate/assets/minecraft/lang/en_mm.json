@@ -1,4 +1,5 @@
 {
+  
   "accessibility.onboarding.screen.narrator": "Press enter to enable the narrator",
   "accessibility.onboarding.screen.title": "Welcome to Minecraft!\n\nWould you like to enable the Narrator or visit the Accessibility Settings?",
   "addServer.add": "Done",
@@ -16,7 +17,7 @@
   "advancements.adventure.adventuring_time.description": "Discover every biome",
   "advancements.adventure.adventuring_time.title": "All Stages Clear",
   
-  "advancements.adventure.arbalistic.description": "Kill five unique mobs with one crossbow shot",
+  "advancements.adventure.arbalistic.description": "Kill five unique mobs with one Centaur Buster shot",
   "advancements.adventure.arbalistic.title": "Brutal Efficiency",
   
   "advancements.adventure.avoid_vibration.description": "Sneak near a Sonic Gabyoall or Warden to prevent it from detecting you",
@@ -1561,7 +1562,7 @@
   "block.minecraft.glow_lichen": "Data Visual",
   "block.minecraft.glowstone": "Flashstone",
   "block.minecraft.gold_block": "Block of Gold",
-  "block.minecraft.gold_ore": "Bootleg Golden amiibo Box",
+  "block.minecraft.gold_ore": "Gold Flecked Scrap",
   "block.minecraft.granite": "Granite",
   "block.minecraft.granite_slab": "Granite Slab",
   "block.minecraft.granite_stairs": "Granite Stairs",
@@ -2722,7 +2723,7 @@
   "container.barrel": "§fBarrel",
   "container.beacon": "§fPerformance Booster",
   "container.blast_furnace": "§fBlast Furnace",
-  "container.brewing": "§fTank Synthesis",
+  "container.brewing":"\u00a7f\ueff1\u00a7r             §fTank Synthesis            \u00a7f\ueff2",
   "container.cartography_table": "§fSubscreen Programmer",
   "container.chest": "§fToolbox",
   "container.chestDouble": "§fTool Cabinet",
@@ -3635,7 +3636,7 @@
   "item.minecraft.blue_dye": "Blue Pipetto Dye",
   "item.minecraft.bone": "Bone",
   "item.minecraft.bone_meal": "Clean Energizer",
-  "item.minecraft.book": "Book",
+  "item.minecraft.book": "File Disk",
   "item.minecraft.bow": "Mega Buster",
   "item.minecraft.bowl": "Capsule Casing",
   "item.minecraft.bread": "Bread Battery",
@@ -3672,8 +3673,8 @@
   "item.minecraft.coal": "Coal",
   "item.minecraft.cocoa_beans": "Cocoa Beans",
   "item.minecraft.cod": "Pelicanu Perch",
-  "item.minecraft.cod_bucket": "Bucket of Cod",
-  "item.minecraft.cod_spawn_egg": "Cod Spawn Egg",
+  "item.minecraft.cod_bucket": "Bucket of Pelicanu",
+  "item.minecraft.cod_spawn_egg": "Pelicanu Perch Spawn Egg",
   "item.minecraft.command_block_minecart": "Minecart with Command Block",
   "item.minecraft.compass": "Compass",
   "item.minecraft.cooked_beef": "Big Energy Pellet FX",
@@ -5885,7 +5886,7 @@
   "subtitles.entity.pig.ambient": "Hyper Storm H. oinks",
   "subtitles.entity.pig.death": "Hyper Storm H. breaks down",
   "subtitles.entity.pig.hurt": "Hyper Storm H. sustains damage",
-  "subtitles.entity.pig.saddle": "Seat Cushion equips",
+  "subtitles.entity.pig.saddle": "Saddle equips",
   "subtitles.entity.piglin_brute.ambient": "Piglin Brute snorts",
   "subtitles.entity.piglin_brute.angry": "Piglin Brute snorts angrily",
   "subtitles.entity.piglin_brute.converted_to_zombified": "Piglin Brute converts to Gilliam Knight",
@@ -6325,4 +6326,5 @@
   "tutorial.socialInteractions.description": "Press %s to open",
   "tutorial.socialInteractions.title": "Social Interactions",
   "upgrade.minecraft.netherite_upgrade": "Netherite Upgrade"
+  
 }
