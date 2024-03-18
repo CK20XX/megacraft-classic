@@ -6,11 +6,11 @@
         "extended=false,facing=south": { "model": "block/sticky_piston", "y": 180 },
         "extended=false,facing=west": { "model": "block/sticky_piston", "y": 270 },
         "extended=false,facing=east": { "model": "block/sticky_piston", "y": 90 },
-        "extended=true,facing=down": { "model": "block/piston_base", "x": 90 },
-        "extended=true,facing=up": { "model": "block/piston_base", "x": 270 },
-        "extended=true,facing=north": { "model": "block/piston_base" },
-        "extended=true,facing=south": { "model": "block/piston_base", "y": 180 },
-        "extended=true,facing=west": { "model": "block/piston_base", "y": 270 },
-        "extended=true,facing=east": { "model": "block/piston_base", "y": 90 }
+        "extended=true,facing=down": { "model": "block/piston_crusher_sticky_base", "x": 90 },
+        "extended=true,facing=up": { "model": "block/piston_crusher_sticky_base", "x": 270 },
+        "extended=true,facing=north": { "model": "block/piston_crusher_sticky_base" },
+        "extended=true,facing=south": { "model": "block/piston_crusher_sticky_base", "y": 180 },
+        "extended=true,facing=west": { "model": "block/piston_crusher_sticky_base", "y": 270 },
+        "extended=true,facing=east": { "model": "block/piston_crusher_sticky_base", "y": 90 }
     }
 }
