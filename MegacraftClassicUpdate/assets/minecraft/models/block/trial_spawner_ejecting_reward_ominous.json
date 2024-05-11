@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "minecraft:block/trial_spawner_side_active_ominous",
+    "north": "minecraft:block/trial_spawner_side_active_ominous",
+    "south": "minecraft:block/trial_spawner_side_active_ominous",
+    "east": "minecraft:block/trial_spawner_side_active_ominous_2",
+    "west": "minecraft:block/trial_spawner_side_active_ominous_2",
+    "up": "minecraft:block/trial_spawner_top_ejecting_reward_ominous",
+    "down": "minecraft:block/trial_spawner_bottom"
+  }
+}

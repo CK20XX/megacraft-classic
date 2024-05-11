@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/spawner_bottom",
-        "top": "block/spawner_top",
-        "side": "block/spawner"
-    }
+  "parent": "minecraft:block/cube_all_inner_faces",
+  "textures": {
+    "all": "minecraft:block/spawner"
+  }
 }
