@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/oxidized_chiseled_copper",
+  "textures": {"all": "minecraft:item/waxed_oxidized_chiseled_copper"}
+}
