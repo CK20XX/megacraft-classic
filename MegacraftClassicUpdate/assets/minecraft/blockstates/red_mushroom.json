@@ -3,8 +3,8 @@
         "": [
             { "model": "block/red_mushroom", "weight": 6 },
             { "model": "block/red_mushroom1" },
-            { "model": "block/red_mushroom2" },
-            { "model": "block/red_mushroom3" }
+            { "model": "block/red_mushroom3" },
+            { "model": "block/red_mushroom4" }
         ]
     }
 }
