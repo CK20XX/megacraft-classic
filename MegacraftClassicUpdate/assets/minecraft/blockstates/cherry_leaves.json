@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/cherry_leaves"
-    }
+    "": [
+		{"model": "minecraft:block/cherry_leaves"},
+		{"model": "minecraft:block/cherry_leaves1"},
+		{"model": "minecraft:block/cherry_leaves2"},
+		{"model": "minecraft:block/cherry_leaves3"},
+		{"model": "minecraft:block/cherry_leaves4"},
+		{"model": "minecraft:block/cherry_leaves5"},
+		{"model": "minecraft:block/cherry_leaves6"},
+		{"model": "minecraft:block/cherry_leaves7"},
+		{"model": "minecraft:block/cherry_leaves8"},
+		{"model": "minecraft:block/cherry_leaves9"},
+		{"model": "minecraft:block/cherry_leaves10"},
+		{"model": "minecraft:block/cherry_leaves11"}
+	]
   }
 }
