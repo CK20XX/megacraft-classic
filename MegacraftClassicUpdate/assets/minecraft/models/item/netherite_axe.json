@@ -2,5 +2,10 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/netherite_axe"
-  }
+  },
+    "overrides": [
+        {"predicate": {"damaged": 1,"damage": 0.95}, "model": "item/netherite_axe_worn1"},
+        {"predicate": {"damaged": 1,"damage": 0.97}, "model": "item/netherite_axe_worn2"},
+        {"predicate": {"damaged": 1,"damage": 0.99}, "model": "item/netherite_axe_worn3"}
+    ]
 }

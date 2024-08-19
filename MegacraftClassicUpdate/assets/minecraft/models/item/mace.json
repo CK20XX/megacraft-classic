@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld_mace",
+  "textures": {
+    "layer0": "minecraft:item/mace"
+  },
+    "overrides": [
+        {"predicate": {"damaged": 1,"damage": 0.85}, "model": "item/mace_worn1"},
+        {"predicate": {"damaged": 1,"damage": 0.9}, "model": "item/mace_worn2"},
+        {"predicate": {"damaged": 1,"damage": 0.95}, "model": "item/mace_worn3"}
+    ]
+}

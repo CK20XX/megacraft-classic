@@ -1,10 +1,11 @@
 {
   "variants": {
-    "half=lower": {
-      "model": "minecraft:block/pitcher_plant_bottom"
-    },
-    "half=upper": {
-      "model": "minecraft:block/pitcher_plant_top"
-    }
+    "half=lower": [
+			{"model": "minecraft:block/pitcher_bokazurah"},
+			{"model": "minecraft:block/pitcher_bokazurah1"},
+			{"model": "minecraft:block/pitcher_bokazurah2"},
+			{"model": "minecraft:block/pitcher_bokazurah3"}
+		],
+    "half=upper": {"model": "minecraft:block/air_placeholder"}
   }
 }

@@ -2,5 +2,13 @@
   "parent": "minecraft:item/handheld_rod",
   "textures": {
     "layer0": "minecraft:item/carrot_on_a_stick"
-  }
+  },
+    "overrides": [
+        {"predicate": {"damaged": 1,"damage": 0.25},
+			"model": "item/carrot_on_a_stick_worn1"},
+        {"predicate": {"damaged": 1,"damage": 0.5},
+			"model": "item/carrot_on_a_stick_worn2"},
+        {"predicate": {"damaged": 1,"damage": 0.75},
+			"model": "item/carrot_on_a_stick_worn3"}
+    ]
 }

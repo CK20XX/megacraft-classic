@@ -5,15 +5,15 @@
   },
     "overrides": [
         {
-            "predicate": {"damaged": 1,"damage": 0.85},
+            "predicate": {"damaged": 1,"damage": 0.55},
             "model": "item/wooden_shovel_worn1"
         },
         {
-            "predicate": {"damaged": 1,"damage": 0.9},
+            "predicate": {"damaged": 1,"damage": 0.7},
             "model": "item/wooden_shovel_worn2"
         },
         {
-            "predicate": {"damaged": 1,"damage": 0.95},
+            "predicate": {"damaged": 1,"damage": 0.85},
             "model": "item/wooden_shovel_worn3"
         }
     ]

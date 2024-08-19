@@ -4,11 +4,19 @@
         "layer0": "item/fishing_rod"
     },
     "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "item/fishing_rod_cast"
-        }
+        {"predicate": {"damaged": 1,"damage": 0.7},
+            "model": "item/fishing_rod_worn1"},
+		{"predicate": {"damaged": 1,"damage": 0.8},
+            "model": "item/fishing_rod_worn2"},
+		{"predicate": {"damaged": 1,"damage": 0.9},
+            "model": "item/fishing_rod_worn3"},
+		{"predicate": {"cast": 1},
+            "model": "item/fishing_rod_cast"},
+		{"predicate": {"cast": 1,"damaged": 1,"damage": 0.7},
+            "model": "item/fishing_rod_cast_worn1"},
+		{"predicate": {"cast": 1,"damaged": 1,"damage": 0.8},
+            "model": "item/fishing_rod_cast_worn2"},
+		{"predicate": {"cast": 1,"damaged": 1,"damage": 0.9},
+            "model": "item/fishing_rod_cast_worn3"}
     ]
 }

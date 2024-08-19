@@ -2,5 +2,10 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/diamond_axe"
-  }
+  },
+    "overrides": [
+        {"predicate": {"damaged": 1,"damage": 0.9}, "model": "item/diamond_axe_worn1"},
+        {"predicate": {"damaged": 1,"damage": 0.95}, "model": "item/diamond_axe_worn2"},
+        {"predicate": {"damaged": 1,"damage": 0.98}, "model": "item/diamond_axe_worn3"}
+    ]
 }

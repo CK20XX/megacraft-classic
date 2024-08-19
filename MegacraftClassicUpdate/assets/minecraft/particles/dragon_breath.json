@@ -1,7 +1,20 @@
 {
   "textures": [
-    "minecraft:generic_5",
-    "minecraft:generic_6",
-    "minecraft:generic_7"
+    "minecraft:dragonbreath0",
+    "minecraft:dragonbreath1",
+    "minecraft:dragonbreath2",
+	"minecraft:dragonbreath3",
+	"minecraft:dragonbreath4",
+	"minecraft:dragonbreath5",
+	"minecraft:dragonbreath6",
+	"minecraft:dragonbreath7",
+	"minecraft:dragonbreath8",
+	"minecraft:dragonbreath9",
+	"minecraft:dragonbreath10",
+	"minecraft:dragonbreath11",
+	"minecraft:dragonbreath12",
+	"minecraft:dragonbreath13",
+	"minecraft:dragonbreath14",
+	"minecraft:dragonbreath15"
   ]
 }

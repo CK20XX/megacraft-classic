@@ -21,23 +21,38 @@
         }
     },
     "overrides": [
-        {
-            "predicate": {
-                "brushing": 0.25
-            },
-            "model": "item/brush_brushing_0"
-        },
-        {
-            "predicate": {
-                "brushing": 0.5
-            },
-            "model": "item/brush_brushing_1"
-        },
-      {
-        "predicate": {
-          "brushing": 0.75
-        },
-        "model": "item/brush_brushing_2"
-      }
+		{"predicate": {"damaged": 1,"damage": 0.7},
+            "model": "item/brush_worn1"},
+		{"predicate": {"damaged": 1,"damage": 0.8},
+            "model": "item/brush_worn2"},
+		{"predicate": {"damaged": 1,"damage": 0.9},
+            "model": "item/brush_worn3"},
+			
+        {"predicate": {"brushing": 0.25},
+            "model": "item/brush_brushing_0"},
+		{"predicate": {"brushing": 0.25,"damaged": 1,"damage": 0.7},
+            "model": "item/brush_brushing_0_worn1"},
+		{"predicate": {"brushing": 0.25,"damaged": 1,"damage": 0.8},
+            "model": "item/brush_brushing_0_worn2"},
+		{"predicate": {"brushing": 0.25,"damaged": 1,"damage": 0.9},
+            "model": "item/brush_brushing_0_worn3"},
+			
+        {"predicate": {"brushing": 0.5},
+            "model": "item/brush_brushing_1"},
+		{"predicate": {"brushing": 0.5,"damaged": 1,"damage": 0.7},
+            "model": "item/brush_brushing_1_worn1"},
+		{"predicate": {"brushing": 0.5,"damaged": 1,"damage": 0.8},
+            "model": "item/brush_brushing_1_worn2"},
+		{"predicate": {"brushing": 0.5,"damaged": 1,"damage": 0.9},
+            "model": "item/brush_brushing_1_worn3"},
+			
+		{"predicate": {"brushing": 0.75},
+			"model": "item/brush_brushing_2"},
+		{"predicate": {"brushing": 0.75,"damaged": 1,"damage": 0.7},
+			"model": "item/brush_brushing_2_worn1"},
+		{"predicate": {"brushing": 0.75,"damaged": 1,"damage": 0.8},
+			"model": "item/brush_brushing_2_worn2"},
+		{"predicate": {"brushing": 0.75,"damaged": 1,"damage": 0.9},
+			"model": "item/brush_brushing_2_worn3"}
     ]
 }

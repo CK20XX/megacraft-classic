@@ -26,38 +26,56 @@
         }
     },
     "overrides": [
-        {
-            "predicate": {
-                "pulling": 1
-            },
-            "model": "item/crossbow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.58
-            },
-            "model": "item/crossbow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 1.0
-            },
-            "model": "item/crossbow_pulling_2"
-        },
-        {
-            "predicate": {
-                "charged": 1
-            },
-            "model": "item/crossbow_arrow"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "firework": 1
-            },
-            "model": "item/crossbow_firework"
-        }
+		{"predicate": {"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_worn1"},
+		{"predicate": {"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_worn2"},
+		{"predicate": {"damaged": 1,"damage": 0.95},
+            "model": "item/crossbow_worn3"},
+			
+        {"predicate": {"pulling": 1},
+            "model": "item/crossbow_pulling_0"},
+		{"predicate": {"pulling": 1,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_pulling_0_worn1"},
+		{"predicate": {"pulling": 1,"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_pulling_0_worn2"},
+		{"predicate": {"pulling": 1,"damaged": 1,"damage": 0.95},
+            "model": "item/crossbow_pulling_0_worn3"},
+			
+        {"predicate": {"pulling": 1,"pull": 0.58},
+            "model": "item/crossbow_pulling_1"},
+		{"predicate": {"pulling": 1,"pull": 0.58,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_pulling_1_worn1"},
+		{"predicate": {"pulling": 1,"pull": 0.58,"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_pulling_1_worn2"},
+		{"predicate": {"pulling": 1,"pull": 0.58,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_pulling_1_worn3"},
+			
+        {"predicate": {"pulling": 1,"pull": 1.0},
+            "model": "item/crossbow_pulling_2"},
+		{"predicate": {"pulling": 1,"pull": 1.0,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_pulling_2_worn1"},
+		{"predicate": {"pulling": 1,"pull": 1.0,"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_pulling_2_worn2"},
+		{"predicate": {"pulling": 1,"pull": 1.0,"damaged": 1,"damage": 0.95},
+            "model": "item/crossbow_pulling_2_worn3"},
+			
+        {"predicate": {"charged": 1},
+            "model": "item/crossbow_arrow"},
+		{"predicate": {"charged": 1,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_arrow_worn1"},
+		{"predicate": {"charged": 1,"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_arrow_worn2"},
+		{"predicate": {"charged": 1,"damaged": 1,"damage": 0.95},
+            "model": "item/crossbow_arrow_worn3"},
+			
+        {"predicate": {"charged": 1,"firework": 1},
+            "model": "item/crossbow_firework"},
+		{"predicate": {"charged": 1,"firework": 1,"damaged": 1,"damage": 0.85},
+            "model": "item/crossbow_firework_worn1"},
+		{"predicate": {"charged": 1,"firework": 1,"damaged": 1,"damage": 0.9},
+            "model": "item/crossbow_firework_worn2"},
+		{"predicate": {"charged": 1,"firework": 1,"damaged": 1,"damage": 0.95},
+            "model": "item/crossbow_firework_worn3"}
     ]
 }
