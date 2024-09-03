@@ -1,7 +1,18 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/chiseled_sandstone"
-    }
+    "": [
+		{"model": "minecraft:block/chiseled_sandstone"},
+		{"model": "minecraft:block/chiseled_sandstone1"},
+		{"model": "minecraft:block/chiseled_sandstone2"},
+		{"model": "minecraft:block/chiseled_sandstone3"},
+		{"model": "minecraft:block/chiseled_sandstone4"},
+		{"model": "minecraft:block/chiseled_sandstone5"},
+		{"model": "minecraft:block/chiseled_sandstone6"},
+		{"model": "minecraft:block/chiseled_sandstone7"},
+		{"model": "minecraft:block/chiseled_sandstone8"},
+		{"model": "minecraft:block/chiseled_sandstone9"},
+		{"model": "minecraft:block/chiseled_sandstone10"},
+		{"model": "minecraft:block/chiseled_sandstone11"}
+	]
   }
 }

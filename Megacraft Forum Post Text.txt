@@ -1,0 +1,81 @@
+HOSTED ON:
+Planet Minecraft
+Modrinth
+Nexus Mods
+Curseforge
+Minecraft Forums
+
+
+
+Megacraft Classic is a cartoon sci-fi resource pack based primarily around the classic Mega Man games, with influence seeping in from Mega Man X, Mega Man Battle Network, Megaman Legends, and so on where appropriate.
+
+It’s a pack great for adventurers and inventors, with loads of extra functionality not found in the vanilla game, and all without needing to install any mods! Features include:
+
+Many, many animations and randomized block textures!
+Plenty of custom models!
+Directional observers, hoppers, dispensers, and droppers! Never again be confused about where your items are going in your factories!
+Redstone dust displays its power level!
+Sticky pistons look distinct from all sides!
+Visual capacity meters for beehives, bee nests, cauldrons, and composters!
+Noteblocks display the instruments and notes they're playing!
+Every tool and weapon, from swords and maces to fishing rods and brushes, visibly wears out as it’s used! This helps you squeeze every last bit of durability from diamond and netherite gear without breaking it!
+Tripwire electrifies when tripped!
+Crops dance when they’re ready to harvest!
+Four distinct ways to die to spikes!
+Find accessory chips and apply them to your armor to cosplay as many different Robot Masters and NetNavis!
+Kelp stalks are topped with multicolor beacons indicating their age!
+Saplings double in height if something is stopping them from growing!
+The lodestone doubles as a compass!
+Doubled resolution for banner patterns that have been applied to shields!
+A custom language file: English (Mega Man)!
+And again, it’s all 100% vanilla! No modding required!
+But if you happen to have Optifine, deepslate ores will glow with emissive textures so they’re easier to find!
+It may be an over 100 megabyte download, but every megabyte is worth it!
+
+- Many, many animations and randomized block textures!
+- Plenty of custom models!
+- Directional observers, hoppers, dispensers, and droppers! Never again be confused about where your items are going in your factories!
+- Redstone dust displays its power level!
+- Sticky pistons look distinct from all sides!
+- Visual capacity meters for beehives, bee nests, cauldrons, and composters!
+- Noteblocks display the instruments and notes they're playing!
+- Every tool and weapon, from swords and maces to fishing rods and brushes, visibly wears out as it’s used! This helps you squeeze every last bit of durability from diamond and netherite gear without breaking it!
+- Tripwire electrifies when tripped!
+- Crops dance when they’re ready to harvest!
+- Four distinct ways to die to spikes!
+- Find accessory chips and apply them to your armor to cosplay as many different Robot Masters and NetNavis!
+- Kelp stalks are topped with multicolor beacons indicating their age!
+- Saplings double in height if something is stopping them from growing!
+- The lodestone doubles as a compass!
+- Doubled resolution for banner patterns that have been applied to shields!
+- A custom language file: English (Mega Man)!
+- And again, it’s all 100% vanilla! No modding required!
+- But if you happen to have Optifine, deepslate ores will glow with emissive textures so they’re easier to find!
+- It may be over a 100 megabyte download, but every megabyte is worth it!
+
+Download it now because Mega Man deserves to succeed.
+
+TEAM MEGACRAFT
+
+CK20XX is the director who still does most of the work.
+VelveteenVixen ported over most of the assets to 1.13, the big backend bump where all the updates stopped. Seriously, converting countless animations and randomized textures was a nightmare.
+Visorlights has done some of everything, but is the best at busywork and coding.
+Xenothekid has also done some of everything, including original paintings and editing the language file.
+Hansungkee has fixed broken textures, touched up others, and helped make final decisions about armor.
+NobodyCareWho﻿ has done debugging and made cool paintings and bookshelf variants.
+Firehawke coded a clock with 576 frames of animation.
+
+Join the Harmonious Buttons discord to discuss this project and other game-related happenstance: discord.gg/pzRwXGrcru
+
+Completion Rate:
+99.9% of all blocks
+99.9% of all items
+100% of the GUI
+100% of all particles
+80% of all paintings
+Maybe 50% of all mobs (DO NOT LOOK AT THE NEW WOLVES)
+Maybe 50% of all other textures
+Probably 30% of sounds
+10% of music
+
+
