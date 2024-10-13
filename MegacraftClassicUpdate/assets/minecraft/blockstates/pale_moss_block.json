@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/pale_moss_block"
-    }
+    "": [
+			{"model": "minecraft:block/pale_moss_block"},
+			{"model": "minecraft:block/pale_moss_block1"},
+			{"model": "minecraft:block/pale_moss_block2"},
+			{"model": "minecraft:block/pale_moss_block3"}
+	]
   }
 }
