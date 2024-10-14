@@ -1,7 +1,7 @@
 {
   "animation": {
-	"width": 64,
-	"height": 48,
+	"width": 256,
+	"height": 128,
 	"frametime": 6000
   }
 }
