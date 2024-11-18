@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": [
+		{"model": "minecraft:block/chiseled_resin_bricks"},
+		{"model": "minecraft:block/chiseled_resin_bricks1"},
+		{"model": "minecraft:block/chiseled_resin_bricks2"},
+		{"model": "minecraft:block/chiseled_resin_bricks3"},
+		{"model": "minecraft:block/chiseled_resin_bricks4"},
+		{"model": "minecraft:block/chiseled_resin_bricks5"},
+		{"model": "minecraft:block/chiseled_resin_bricks6"},
+		{"model": "minecraft:block/chiseled_resin_bricks7"},
+		{"model": "minecraft:block/chiseled_resin_bricks8"},
+		{"model": "minecraft:block/chiseled_resin_bricks9"}
+	]
+  }
+}
