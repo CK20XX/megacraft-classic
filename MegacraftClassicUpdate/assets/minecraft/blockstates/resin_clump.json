@@ -24,7 +24,7 @@
 		{"model": "minecraft:block/resin_clump1","uvlock": true,"y": 90},
 		{"model": "minecraft:block/resin_clump2","uvlock": true,"y": 90},
 		{"model": "minecraft:block/resin_clump3","uvlock": true,"y": 90}
-	  ]
+	  ],
       "when": {"east": "true"}
     },
     {
