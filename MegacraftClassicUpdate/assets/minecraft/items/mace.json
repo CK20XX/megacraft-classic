@@ -1,6 +1,16 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/mace"
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {"threshold": 0,
+        "model": {"type": "minecraft:model","model": "minecraft:item/mace"}},
+      {"threshold": 0.85,
+        "model": {"type": "minecraft:model","model": "minecraft:item/mace_worn1"}},
+      {"threshold": 0.9,
+        "model": {"type": "minecraft:model","model": "minecraft:item/mace_worn2"}},
+      {"threshold": 0.95,
+        "model": {"type": "minecraft:model","model": "minecraft:item/mace_worn3"}}
+    ]
   }
 }

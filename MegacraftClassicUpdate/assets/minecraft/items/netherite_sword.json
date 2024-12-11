@@ -1,6 +1,16 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/netherite_sword"
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {"threshold": 0,
+        "model": {"type": "minecraft:model", "model": "minecraft:item/netherite_sword"}},
+      {"threshold": 0.95,
+        "model": {"type": "minecraft:model","model": "minecraft:item/netherite_sword_worn1"}},
+      {"threshold": 0.97,
+        "model": {"type": "minecraft:model","model": "minecraft:item/netherite_sword_worn2"}},
+      {"threshold": 0.99,
+        "model": {"type": "minecraft:model","model": "minecraft:item/netherite_sword_worn3"}}
+    ]
   }
 }

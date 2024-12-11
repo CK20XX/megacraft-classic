@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/resin_bricks28",
+    "side": "minecraft:block/resin_bricks28",
+    "top": "minecraft:block/resin_bricks28"
+  }
+}

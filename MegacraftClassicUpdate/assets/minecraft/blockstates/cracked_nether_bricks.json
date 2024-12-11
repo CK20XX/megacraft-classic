@@ -33,7 +33,17 @@
       { "model": "minecraft:block/cracked_nether_bricks29" },
       { "model": "minecraft:block/cracked_nether_bricks30" },
       { "model": "minecraft:block/cracked_nether_bricks31" },
-      { "model": "minecraft:block/cracked_nether_bricks32" }
+      { "model": "minecraft:block/cracked_nether_bricks32" },
+	  { "model": "minecraft:block/cracked_nether_bricks33" },
+	  { "model": "minecraft:block/cracked_nether_bricks34" },
+	  { "model": "minecraft:block/cracked_nether_bricks35" },
+	  { "model": "minecraft:block/cracked_nether_bricks36" },
+	  { "model": "minecraft:block/cracked_nether_bricks37" },
+	  { "model": "minecraft:block/cracked_nether_bricks38" },
+	  { "model": "minecraft:block/cracked_nether_bricks39" },
+	  { "model": "minecraft:block/cracked_nether_bricks40" },
+	  { "model": "minecraft:block/cracked_nether_bricks41" },
+	  { "model": "minecraft:block/cracked_nether_bricks42" }
     ]
   }
 }

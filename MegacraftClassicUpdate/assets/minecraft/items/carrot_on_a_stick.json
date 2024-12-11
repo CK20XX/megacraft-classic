@@ -1,6 +1,16 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/carrot_on_a_stick"
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {"threshold": 0,
+        "model": {"type": "minecraft:model","model": "minecraft:item/carrot_on_a_stick"}},
+      {"threshold": 0.25,
+        "model": {"type": "minecraft:model","model": "minecraft:item/carrot_on_a_stick_worn1"}},
+      {"threshold": 0.5,
+        "model": {"type": "minecraft:model","model": "minecraft:item/carrot_on_a_stick_worn2"}},
+      {"threshold": 0.75,
+        "model": {"type": "minecraft:model","model": "minecraft:item/carrot_on_a_stick_worn3"}}
+    ]
   }
 }

@@ -2,13 +2,32 @@
   "model": {
     "type": "minecraft:condition",
     "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/fishing_rod"
+	  "type": "minecraft:range_dispatch",
+      "property": "minecraft:damage",
+      "entries": [
+        {"threshold": 0,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod"}},
+        {"threshold": 0.7,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_worn1"}},
+        {"threshold": 0.8,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_worn2"}},
+        {"threshold": 0.9,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_worn3"}}
+      ]
     },
     "on_true": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/fishing_rod_cast"
-    },
-    "property": "minecraft:fishing_rod/cast"
+	  "type": "minecraft:range_dispatch",
+      "property": "minecraft:damage",
+      "entries": [
+        {"threshold": 0,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_cast"}},
+        {"threshold": 0.7,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_cast_worn1"}},
+        {"threshold": 0.8,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_cast_worn2"}},
+        {"threshold": 0.9,
+          "model": {"type": "minecraft:model","model": "minecraft:item/fishing_rod_cast_worn3"}}
+      ]
+    },"property": "minecraft:fishing_rod/cast"
   }
 }

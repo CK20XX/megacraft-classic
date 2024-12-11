@@ -5,49 +5,103 @@
       "type": "minecraft:select",
       "cases": [
         {
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/crossbow_arrow"
-          },
-          "when": "arrow"
-        },
+        "model": {
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_arrow"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_arrow_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_arrow_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_arrow_worn3"}}
+			]
+          },"when": "arrow"
+		},
         {
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/crossbow_firework"
-          },
-          "when": "rocket"
-        }
+        "model": {
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_firework"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_firework_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_firework_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_firework_worn3"}}
+			]
+          },"when": "rocket"
+		}
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/crossbow"
-      },
-      "property": "minecraft:charge_type"
+        "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_worn3"}}
+		  ]
+        },"property": "minecraft:charge_type"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
       "entries": [
         {
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/crossbow_pulling_1"
-          },
-          "threshold": 0.58
-        },
+        "model": {
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_1"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_1_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_1_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_1_worn3"}}
+		  ]
+        },"threshold": 0.58
+      },
         {
-          "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/crossbow_pulling_2"
-          },
-          "threshold": 1.0
-        }
+        "model": {
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_2"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_2_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_2_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_2_worn3"}}
+		  ]
+        },"threshold": 1.0
+      }
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/crossbow_pulling_0"
-      },
-      "property": "minecraft:crossbow/pull"
+        "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_0"}},
+			{"threshold": 0.85,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_0_worn1"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_0_worn2"}},
+			{"threshold": 0.95,
+			"model": {"type": "minecraft:model","model": "minecraft:item/crossbow_pulling_0_worn3"}}
+		  ]
+      },"property": "minecraft:crossbow/pull"
     },
     "property": "minecraft:using_item"
   }

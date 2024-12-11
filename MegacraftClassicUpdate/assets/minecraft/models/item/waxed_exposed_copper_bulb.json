@@ -1,4 +1,6 @@
 {
-  "parent": "minecraft:item/exposed_copper_bulb",
-  "textures": {"all": "minecraft:item/waxed_exposed_copper_bulb"}
+  "parent": "minecraft:block/copper_block",
+  "textures": {
+    "all": "item/waxed_exposed_copper_bulb"
+  }
 }

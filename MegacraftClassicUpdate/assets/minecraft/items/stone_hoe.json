@@ -1,6 +1,16 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/stone_hoe"
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {"threshold": 0,
+        "model": {"type": "minecraft:model","model": "minecraft:item/stone_hoe"}},
+      {"threshold": 0.7,
+        "model": {"type": "minecraft:model","model": "minecraft:item/stone_hoe_worn1"}},
+      {"threshold": 0.8,
+        "model": {"type": "minecraft:model","model": "minecraft:item/stone_hoe_worn2"}},
+      {"threshold": 0.9,
+        "model": {"type": "minecraft:model","model": "minecraft:item/stone_hoe_worn3"}}
+    ]
   }
 }

@@ -2,30 +2,68 @@
   "model": {
     "type": "minecraft:condition",
     "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/bow"
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:damage",
+      "entries": [
+        {"threshold": 0,
+          "model": {"type": "minecraft:model","model": "minecraft:item/bow"}},
+        {"threshold": 0.85,
+          "model": {"type": "minecraft:model","model": "minecraft:item/bow_worn1"}},
+        {"threshold": 0.9,
+          "model": {"type": "minecraft:model","model": "minecraft:item/bow_worn2"}},
+        {"threshold": 0.95,
+          "model": {"type": "minecraft:model","model": "minecraft:item/bow_worn3"}}
+      ]
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
       "entries": [
         {
           "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/bow_pulling_1"
-          },
-          "threshold": 0.65
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:damage",
+            "entries": [
+              {"threshold": 0,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_1"}},
+              {"threshold": 0.85,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_1_worn1"}},
+              {"threshold": 0.9,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_1_worn2"}},
+              {"threshold": 0.95,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_1_worn3"}}
+            ]
+          },"threshold": 0.65
         },
         {
           "model": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/bow_pulling_2"
-          },
-          "threshold": 0.9
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:damage",
+            "entries": [
+              {"threshold": 0,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_2"}},
+              {"threshold": 0.85,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_2_worn1"}},
+              {"threshold": 0.9,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_2_worn2"}},
+              {"threshold": 0.95,
+                "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_2_worn3"}}
+            ]
+          },"threshold": 0.95
         }
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/bow_pulling_0"
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:damage",
+        "entries": [
+          {"threshold": 0,
+            "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_0"}},
+          {"threshold": 0.85,
+            "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_0_worn1"}},
+          {"threshold": 0.9,
+            "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_0_worn2"}},
+          {"threshold": 0.95,
+            "model": {"type": "minecraft:model","model": "minecraft:item/bow_pulling_0_worn3"}}
+        ]
       },
       "property": "minecraft:use_duration",
       "scale": 0.05

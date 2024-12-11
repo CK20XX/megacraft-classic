@@ -4,29 +4,66 @@
     "entries": [
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/brush_brushing_0"
-        },
-        "threshold": 0.25
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_0"}},
+			{"threshold": 0.7,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_0_worn1"}},
+			{"threshold": 0.8,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_0_worn2"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_0_worn3"}}
+		  ]
+        },"threshold": 0.25
       },
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/brush_brushing_1"
-        },
-        "threshold": 0.5
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_1"}},
+			{"threshold": 0.7,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_1_worn1"}},
+			{"threshold": 0.8,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_1_worn2"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_1_worn3"}}
+		  ]
+        },"threshold": 0.5
       },
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/brush_brushing_2"
-        },
-        "threshold": 0.75
+          "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_2"}},
+			{"threshold": 0.7,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_2_worn1"}},
+			{"threshold": 0.8,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_2_worn2"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_brushing_2_worn3"}}
+		  ]
+        },"threshold": 0.75
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/brush"
+      "type": "minecraft:range_dispatch",
+		  "property": "minecraft:damage",
+		  "entries": [
+			{"threshold": 0,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush"}},
+			{"threshold": 0.7,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_worn1"}},
+			{"threshold": 0.8,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_worn2"}},
+			{"threshold": 0.9,
+			"model": {"type": "minecraft:model","model": "minecraft:item/brush_worn3"}}
+		  ]
     },
     "period": 10.0,
     "property": "minecraft:use_cycle",
