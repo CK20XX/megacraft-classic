@@ -3,7 +3,7 @@
 	"parent": "block/cube",
 	"textures": {
 		"0": "block/dispenser_top",
-		"1": "block/furnace_top",
+		"1": "block/dispenser_back",
 		"2": "block/dropper_front_vertical",
 		"particle": "block/dispenser_top"
 	},

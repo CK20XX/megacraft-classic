@@ -1,9 +1,14 @@
 {
     "variants": {
-        "facing=down": { "model": "block/hopper" },
-        "facing=north": { "model": "block/hopper_side" },
-        "facing=south": { "model": "block/hopper_side", "y": 180 },
-        "facing=west": { "model": "block/hopper_side", "y": 270 },
-        "facing=east": { "model": "block/hopper_side", "y": 90 }
+        "facing=down,enabled=true": { "model": "block/dust_chute" },
+		"facing=down,enabled=false": { "model": "block/dust_chute_stop" },
+        "facing=north,enabled=true": { "model": "block/dust_chute_side" },
+        "facing=south,enabled=true": { "model": "block/dust_chute_side", "y": 180 },
+        "facing=west,enabled=true": { "model": "block/dust_chute_side", "y": 270 },
+        "facing=east,enabled=true": { "model": "block/dust_chute_side", "y": 90 },
+		"facing=north,enabled=false": { "model": "block/dust_chute_side_stop" },
+        "facing=south,enabled=false": { "model": "block/dust_chute_side_stop", "y": 180 },
+        "facing=west,enabled=false": { "model": "block/dust_chute_side_stop", "y": 270 },
+        "facing=east,enabled=false": { "model": "block/dust_chute_side_stop", "y": 90 }
     }
 }
