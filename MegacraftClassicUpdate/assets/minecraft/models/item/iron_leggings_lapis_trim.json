@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_leggings",
+    "layer1": "minecraft:trims/items/iron_legs_trim_lapis"
+  }
+}
