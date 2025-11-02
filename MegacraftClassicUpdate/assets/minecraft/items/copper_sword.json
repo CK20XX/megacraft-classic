@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {"threshold": 0,
+        "model": {"type": "minecraft:model","model": "minecraft:item/copper_sword"}},
+      {"threshold": 0.7,
+        "model": {"type": "minecraft:model","model": "minecraft:item/copper_sword_worn1"}},
+      {"threshold": 0.8,
+        "model": {"type": "minecraft:model","model": "minecraft:item/copper_sword_worn2"}},
+      {"threshold": 0.9,
+        "model": {"type": "minecraft:model","model": "minecraft:item/copper_sword_worn3"}}
+    ]
+  }
+}
