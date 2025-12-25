@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/firefly_bush"
-    }
+    "": [
+		{"model": "minecraft:block/firefly_bush"},
+		{"model": "minecraft:block/firefly_bush1"},
+		{"model": "minecraft:block/firefly_bush2"},
+		{"model": "minecraft:block/firefly_bush3"}
+	]
   }
 }

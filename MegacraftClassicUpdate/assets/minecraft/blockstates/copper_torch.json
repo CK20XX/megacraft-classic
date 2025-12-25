@@ -1,7 +1,8 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:block/copper_torch"
-    }
+    "": [
+		{"model": "minecraft:block/copper_torch"},
+		{"model": "minecraft:block/copper_torch1"}
+	]
   }
 }

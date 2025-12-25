@@ -1,0 +1,66 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "item/",
+      "source": "item"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "copper": "minecraft:trims/color_palettes/copper",
+        "copper_darker": "minecraft:trims/color_palettes/copper_darker",
+        "diamond": "minecraft:trims/color_palettes/diamond",
+        "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "gold_darker": "minecraft:trims/color_palettes/gold_darker",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "iron_darker": "minecraft:trims/color_palettes/iron_darker",
+        "lapis": "minecraft:trims/color_palettes/lapis",
+        "netherite": "minecraft:trims/color_palettes/netherite",
+        "netherite_darker": "minecraft:trims/color_palettes/netherite_darker",
+        "quartz": "minecraft:trims/color_palettes/quartz",
+        "redstone": "minecraft:trims/color_palettes/redstone",
+        "resin": "minecraft:trims/color_palettes/resin"
+      },
+      "textures": [
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/leggings_trim",
+        "minecraft:trims/items/boots_trim",
+		"minecraft:trims/items/turtle_head_trim",
+		"minecraft:trims/items/chain_head_trim",
+		"minecraft:trims/items/copper_head_trim",
+		"minecraft:trims/items/diamond_head_trim",
+		"minecraft:trims/items/gold_head_trim",
+		"minecraft:trims/items/iron_head_trim",
+		"minecraft:trims/items/leather_head_trim",
+		"minecraft:trims/items/netherite_head_trim",
+		"minecraft:trims/items/chain_body_trim",
+		"minecraft:trims/items/copper_body_trim",
+		"minecraft:trims/items/diamond_body_trim",
+		"minecraft:trims/items/gold_body_trim",
+		"minecraft:trims/items/iron_body_trim",
+		"minecraft:trims/items/leather_body_trim",
+		"minecraft:trims/items/netherite_body_trim",
+		"minecraft:trims/items/chain_legs_trim",
+		"minecraft:trims/items/copper_legs_trim",
+		"minecraft:trims/items/diamond_legs_trim",
+		"minecraft:trims/items/gold_legs_trim",
+		"minecraft:trims/items/iron_legs_trim",
+		"minecraft:trims/items/leather_legs_trim",
+		"minecraft:trims/items/netherite_legs_trim",
+		"minecraft:trims/items/chain_feet_trim",
+		"minecraft:trims/items/copper_feet_trim",
+		"minecraft:trims/items/diamond_feet_trim",
+		"minecraft:trims/items/gold_feet_trim",
+		"minecraft:trims/items/iron_feet_trim",
+		"minecraft:trims/items/leather_feet_trim",
+		"minecraft:trims/items/netherite_feet_trim"
+      ]
+    }
+  ]
+}

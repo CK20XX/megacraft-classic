@@ -1,5 +1,12 @@
 {
     "variants": {
-        "": { "model": "block/cactus" }
+        "": [
+			{ "model": "block/cactus" },
+			{ "model": "block/cactus1" },
+			{ "model": "block/cactus2" },
+			{ "model": "block/cactus3" },
+			{ "model": "block/cactus4" },
+			{ "model": "block/cactus5" }
+		]
     }
 }

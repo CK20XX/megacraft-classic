@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/copper_torch1",
+		"particle": "block/copper_torch1"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [6, 3, 8, 16], "texture": "#0"},
+				"east": {"uv": [6, 3, 8, 16], "texture": "#0"},
+				"south": {"uv": [6, 3, 8, 16], "texture": "#0"},
+				"west": {"uv": [6, 3, 8, 16], "texture": "#0"},
+				"up": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"down": {"uv": [8, 2, 10, 4], "texture": "#0"}
+			}
+		}
+	]
+}

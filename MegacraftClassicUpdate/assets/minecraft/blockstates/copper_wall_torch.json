@@ -1,19 +1,20 @@
 {
   "variants": {
-    "facing=east": {
-      "model": "minecraft:block/copper_wall_torch"
-    },
-    "facing=north": {
-      "model": "minecraft:block/copper_wall_torch",
-      "y": 270
-    },
-    "facing=south": {
-      "model": "minecraft:block/copper_wall_torch",
-      "y": 90
-    },
-    "facing=west": {
-      "model": "minecraft:block/copper_wall_torch",
-      "y": 180
-    }
+    "facing=east": [
+		{"model": "minecraft:block/copper_wall_torch"},
+		{"model": "minecraft:block/copper_wall_torch1"}
+	],
+    "facing=north": [
+		{"model": "minecraft:block/copper_wall_torch","y": 270},
+		{"model": "minecraft:block/copper_wall_torch1","y": 270}
+	],
+    "facing=south": [
+		{"model": "minecraft:block/copper_wall_torch","y": 90},
+		{"model": "minecraft:block/copper_wall_torch1","y": 90}
+	],
+    "facing=west": [
+		{"model": "minecraft:block/copper_wall_torch","y": 180},
+		{"model": "minecraft:block/copper_wall_torch1","y": 180}
+	]
   }
 }
