@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 46,
+	"pack_format": 46,
+    "supported_formats": [46,999],
+	"min_format": 46,
+    "max_format": 999,
     "description": "Classic Mega Man in Minecraft! By CK20XX"
    },
    "language":{
@@ -13,7 +16,7 @@
    	"overlays": {
 		"entries": [
 			{
-				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"formats": [46, 2147483647],
 				"directory": "overlay_18"
 			}
 		]
